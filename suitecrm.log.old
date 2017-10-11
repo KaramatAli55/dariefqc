@@ -1,0 +1,1028 @@
+Tue Sep 26 10:24:06 2017 [81433][-none-][FATAL] Could not connect to DB server localhost as dariefqc_crm. port : Access denied for user 'dariefqc_crm'@'localhost' (using password: YES)
+Tue Sep 26 10:24:13 2017 [83530][-none-][FATAL] Could not connect to DB server localhost as dariefqc_crm. port : Access denied for user 'dariefqc_crm'@'localhost' (using password: YES)
+Tue Sep 26 10:25:00 2017 [98407][-none-][FATAL] Could not connect to DB server localhost as dariefqc_crm. port : Access denied for user 'dariefqc_crm'@'localhost' (using password: YES)
+Tue Sep 26 10:25:04 2017 [99736][-none-][FATAL] Could not connect to DB server localhost as dariefqc_crm. port : Access denied for user 'dariefqc_crm'@'localhost' (using password: YES)
+Tue Sep 26 10:33:10 2017 [146340][-none-][FATAL] Could not connect to DB server localhost as dariefqc_crm. port 3306: Access denied for user 'dariefqc_crm'@'localhost' (using password: YES)
+Tue Sep 26 10:33:53 2017 [147421][-none-][FATAL] Could not connect to DB server localhost as dariefqc_crm. port 3306: Access denied for user 'dariefqc_crm'@'localhost' (using password: YES)
+Tue Sep 26 10:45:10 2017 [330381][-none-][FATAL] LDAP Error: Extensions not loaded
+Tue Sep 26 10:54:38 2017 [449795][-none-][FATAL] LDAP Error: Extensions not loaded
+Tue Sep 26 10:54:38 2017 [449795][-none-][FATAL] SECURITY: User authentication for rtdynamic failed
+Tue Sep 26 10:54:38 2017 [449795][-none-][FATAL] FAILED LOGIN:attempts[1] - rtdynamic
+Tue Sep 26 10:56:34 2017 [484200][-none-][FATAL] [LDAP ERROR][-1]Can't contact LDAP server
+Tue Sep 26 10:56:34 2017 [484200][-none-][FATAL] SECURITY: ldapauth: failed LDAP bind (login) by rtdynamic, could not construct bind_user
+Tue Sep 26 10:56:34 2017 [484200][-none-][FATAL] SECURITY: User authentication for rtdynamic failed
+Tue Sep 26 10:56:34 2017 [484200][-none-][FATAL] SECURITY: User authentication for rtdynamic failed
+Tue Sep 26 10:56:34 2017 [484200][-none-][FATAL] FAILED LOGIN:attempts[1] - rtdynamic
+Tue Sep 26 11:01:36 2017 [510428][-none-][FATAL] SECURITY: User authentication for rtdynamic failed
+Tue Sep 26 11:01:36 2017 [510428][-none-][FATAL] FAILED LOGIN:attempts[1] - rtdynamic
+Tue Sep 26 11:01:47 2017 [510779][-none-][FATAL] SECURITY: User authentication for rtdynamic failed
+Tue Sep 26 11:01:47 2017 [510779][-none-][FATAL] FAILED LOGIN:attempts[1] - rtdynamic
+Tue Sep 26 11:03:04 2017 [513630][47ac8059-d338-454f-1410-592eeab086f2][FATAL] ERROR: rmdir_recursive(): argument cache/themes/SuiteR/modules is not a file or a dir.
+Tue Sep 26 11:03:04 2017 [513630][47ac8059-d338-454f-1410-592eeab086f2][FATAL] ERROR: rmdir_recursive(): argument cache/themes/Suite7/modules is not a file or a dir.
+Tue Sep 26 12:02:27 2017 [212107][-none-][FATAL] SECURITY: User authentication for admin failed
+Tue Sep 26 12:02:27 2017 [212107][-none-][FATAL] FAILED LOGIN:attempts[1] - admin
+Tue Sep 26 12:02:35 2017 [212374][-none-][FATAL] SECURITY: User authentication for rtdynamics failed
+Tue Sep 26 12:02:35 2017 [212374][-none-][FATAL] FAILED LOGIN:attempts[1] - rtdynamics
+Tue Sep 26 12:03:21 2017 [213858][47ac8059-d338-454f-1410-592eeab086f2][FATAL] ERROR: rmdir_recursive(): argument cache/themes/SuiteR/modules is not a file or a dir.
+Tue Sep 26 12:03:21 2017 [213858][47ac8059-d338-454f-1410-592eeab086f2][FATAL] ERROR: rmdir_recursive(): argument cache/themes/Suite7/modules is not a file or a dir.
+Tue Sep 26 12:03:54 2017 [214885][47ac8059-d338-454f-1410-592eeab086f2][FATAL] ERROR: rmdir_recursive(): argument cache/themes/SuiteP/modules is not a file or a dir.
+Tue Sep 26 12:03:54 2017 [214885][47ac8059-d338-454f-1410-592eeab086f2][FATAL] ERROR: rmdir_recursive(): argument cache/themes/SuiteR/modules is not a file or a dir.
+Tue Sep 26 12:03:54 2017 [214885][47ac8059-d338-454f-1410-592eeab086f2][FATAL] ERROR: rmdir_recursive(): argument cache/themes/Suite7/modules is not a file or a dir.
+Wed Sep 27 09:06:15 2017 [113499][47ac8059-d338-454f-1410-592eeab086f2][FATAL] project_resource for projects_contacts_resources failed to load
+
+Wed Sep 27 09:06:15 2017 [113499][47ac8059-d338-454f-1410-592eeab086f2][FATAL] error loading relationship project_resource
+Wed Sep 27 09:06:15 2017 [113499][47ac8059-d338-454f-1410-592eeab086f2][FATAL] am_projecttemplates_resources for am_projecttemplates_contacts_resources failed to load
+
+Wed Sep 27 09:06:15 2017 [113499][47ac8059-d338-454f-1410-592eeab086f2][FATAL] error loading relationship am_projecttemplates_resources
+Wed Sep 27 09:09:21 2017 [200844][47ac8059-d338-454f-1410-592eeab086f2][FATAL] ERROR: rmdir_recursive(): argument cache/themes/SuiteR/modules is not a file or a dir.
+Wed Sep 27 09:09:21 2017 [200844][47ac8059-d338-454f-1410-592eeab086f2][FATAL] ERROR: rmdir_recursive(): argument cache/themes/Suite7/modules is not a file or a dir.
+Wed Sep 27 09:09:35 2017 [204856][47ac8059-d338-454f-1410-592eeab086f2][FATAL] ERROR: rmdir_recursive(): argument cache/themes/SuiteP/modules is not a file or a dir.
+Wed Sep 27 09:09:35 2017 [204856][47ac8059-d338-454f-1410-592eeab086f2][FATAL] ERROR: rmdir_recursive(): argument cache/themes/SuiteR/modules is not a file or a dir.
+Wed Sep 27 09:09:35 2017 [204856][47ac8059-d338-454f-1410-592eeab086f2][FATAL] ERROR: rmdir_recursive(): argument cache/themes/Suite7/modules is not a file or a dir.
+Wed Sep 27 09:40:45 2017 [591035][47ac8059-d338-454f-1410-592eeab086f2][FATAL] ERROR: rmdir_recursive(): argument cache/themes/SuiteR/modules is not a file or a dir.
+Wed Sep 27 09:40:45 2017 [591035][47ac8059-d338-454f-1410-592eeab086f2][FATAL] ERROR: rmdir_recursive(): argument cache/themes/Suite7/modules is not a file or a dir.
+Wed Sep 27 09:46:19 2017 [607021][47ac8059-d338-454f-1410-592eeab086f2][FATAL] quotes for projects_quotes failed to load
+
+Wed Sep 27 09:46:19 2017 [607021][47ac8059-d338-454f-1410-592eeab086f2][FATAL] error loading relationship quotes
+Wed Sep 27 09:46:19 2017 [607021][47ac8059-d338-454f-1410-592eeab086f2][FATAL] quotes for projects_quotes failed to load
+
+Wed Sep 27 09:46:19 2017 [607021][47ac8059-d338-454f-1410-592eeab086f2][FATAL] error loading relationship quotes
+Wed Sep 27 09:46:19 2017 [607021][47ac8059-d338-454f-1410-592eeab086f2][FATAL]  Query Failed:  SELECT  project_task.*  , jt0.user_name modified_by_name , jt0.created_by modified_by_name_owner  , 'Users' modified_by_name_mod , jt1.user_name created_by_name , jt1.created_by created_by_name_owner  , 'Users' created_by_name_mod , project.name project_name , project.assigned_user_id project_name_owner  , 'Project' project_name_mod , jt3.user_name assigned_user_name , jt3.created_by assigned_user_name_owner  , 'Users' assigned_user_name_mod , jt4. projecttask_parent_name , jt4.assigned_user_id projecttask_parent_name_owner  , 'ProjectTask' projecttask_parent_name_mod FROM project_task   LEFT JOIN  users jt0 ON project_task.modified_user_id=jt0.id AND jt0.deleted=0
+
+ AND jt0.deleted=0  LEFT JOIN  users jt1 ON project_task.created_by=jt1.id AND jt1.deleted=0
+
+ AND jt1.deleted=0  LEFT JOIN  project project ON project_task.project_id=project.id AND project.deleted=0
+
+ AND project.deleted=0  LEFT JOIN  users jt3 ON project_task.assigned_user_id=jt3.id AND jt3.deleted=0
+
+ AND jt3.deleted=0  LEFT JOIN  project_task jt4 ON project_task.projecttask_parent_id=jt4.id AND jt4.deleted=0
+
+ AND jt4.deleted=0 where (project_task.project_id = '' AND project_task.predecessors = '2') AND project_task.deleted=0: MySQL error 1054: Unknown column 'jt4.projecttask_parent_name' in 'field list'
+Wed Sep 27 09:46:19 2017 [607021][47ac8059-d338-454f-1410-592eeab086f2][FATAL]  Query Failed:  SELECT  project_task.*  , jt0.user_name modified_by_name , jt0.created_by modified_by_name_owner  , 'Users' modified_by_name_mod , jt1.user_name created_by_name , jt1.created_by created_by_name_owner  , 'Users' created_by_name_mod , project.name project_name , project.assigned_user_id project_name_owner  , 'Project' project_name_mod , jt3.user_name assigned_user_name , jt3.created_by assigned_user_name_owner  , 'Users' assigned_user_name_mod , jt4. projecttask_parent_name , jt4.assigned_user_id projecttask_parent_name_owner  , 'ProjectTask' projecttask_parent_name_mod FROM project_task   LEFT JOIN  users jt0 ON project_task.modified_user_id=jt0.id AND jt0.deleted=0
+
+ AND jt0.deleted=0  LEFT JOIN  users jt1 ON project_task.created_by=jt1.id AND jt1.deleted=0
+
+ AND jt1.deleted=0  LEFT JOIN  project project ON project_task.project_id=project.id AND project.deleted=0
+
+ AND project.deleted=0  LEFT JOIN  users jt3 ON project_task.assigned_user_id=jt3.id AND jt3.deleted=0
+
+ AND jt3.deleted=0  LEFT JOIN  project_task jt4 ON project_task.projecttask_parent_id=jt4.id AND jt4.deleted=0
+
+ AND jt4.deleted=0 where (project_id = '') AND project_task.deleted=0: MySQL error 1054: Unknown column 'jt4.projecttask_parent_name' in 'field list'
+Wed Sep 27 09:46:19 2017 [607021][47ac8059-d338-454f-1410-592eeab086f2][FATAL]  Query Failed:  SELECT  project_task.*  , jt0.user_name modified_by_name , jt0.created_by modified_by_name_owner  , 'Users' modified_by_name_mod , jt1.user_name created_by_name , jt1.created_by created_by_name_owner  , 'Users' created_by_name_mod , project.name project_name , project.assigned_user_id project_name_owner  , 'Project' project_name_mod , jt3.user_name assigned_user_name , jt3.created_by assigned_user_name_owner  , 'Users' assigned_user_name_mod , jt4. projecttask_parent_name , jt4.assigned_user_id projecttask_parent_name_owner  , 'ProjectTask' projecttask_parent_name_mod FROM project_task   LEFT JOIN  users jt0 ON project_task.modified_user_id=jt0.id AND jt0.deleted=0
+
+ AND jt0.deleted=0  LEFT JOIN  users jt1 ON project_task.created_by=jt1.id AND jt1.deleted=0
+
+ AND jt1.deleted=0  LEFT JOIN  project project ON project_task.project_id=project.id AND project.deleted=0
+
+ AND project.deleted=0  LEFT JOIN  users jt3 ON project_task.assigned_user_id=jt3.id AND jt3.deleted=0
+
+ AND jt3.deleted=0  LEFT JOIN  project_task jt4 ON project_task.projecttask_parent_id=jt4.id AND jt4.deleted=0
+
+ AND jt4.deleted=0 where (project_task.project_id = '' AND project_task.predecessors = '1') AND project_task.deleted=0: MySQL error 1054: Unknown column 'jt4.projecttask_parent_name' in 'field list'
+Wed Sep 27 09:46:19 2017 [607021][47ac8059-d338-454f-1410-592eeab086f2][FATAL]  Query Failed:  SELECT  project_task.*  , jt0.user_name modified_by_name , jt0.created_by modified_by_name_owner  , 'Users' modified_by_name_mod , jt1.user_name created_by_name , jt1.created_by created_by_name_owner  , 'Users' created_by_name_mod , project.name project_name , project.assigned_user_id project_name_owner  , 'Project' project_name_mod , jt3.user_name assigned_user_name , jt3.created_by assigned_user_name_owner  , 'Users' assigned_user_name_mod , jt4. projecttask_parent_name , jt4.assigned_user_id projecttask_parent_name_owner  , 'ProjectTask' projecttask_parent_name_mod FROM project_task   LEFT JOIN  users jt0 ON project_task.modified_user_id=jt0.id AND jt0.deleted=0
+
+ AND jt0.deleted=0  LEFT JOIN  users jt1 ON project_task.created_by=jt1.id AND jt1.deleted=0
+
+ AND jt1.deleted=0  LEFT JOIN  project project ON project_task.project_id=project.id AND project.deleted=0
+
+ AND project.deleted=0  LEFT JOIN  users jt3 ON project_task.assigned_user_id=jt3.id AND jt3.deleted=0
+
+ AND jt3.deleted=0  LEFT JOIN  project_task jt4 ON project_task.projecttask_parent_id=jt4.id AND jt4.deleted=0
+
+ AND jt4.deleted=0 where (project_id = '') AND project_task.deleted=0: MySQL error 1054: Unknown column 'jt4.projecttask_parent_name' in 'field list'
+Wed Sep 27 09:46:20 2017 [607021][47ac8059-d338-454f-1410-592eeab086f2][FATAL] quotes for projects_quotes failed to load
+
+Wed Sep 27 09:46:20 2017 [607021][47ac8059-d338-454f-1410-592eeab086f2][FATAL] error loading relationship quotes
+Wed Sep 27 09:46:20 2017 [607021][47ac8059-d338-454f-1410-592eeab086f2][FATAL] quotes for projects_quotes failed to load
+
+Wed Sep 27 09:46:20 2017 [607021][47ac8059-d338-454f-1410-592eeab086f2][FATAL] error loading relationship quotes
+Wed Sep 27 09:46:20 2017 [607021][47ac8059-d338-454f-1410-592eeab086f2][FATAL]  Query Failed:  SELECT  project_task.*  , jt0.user_name modified_by_name , jt0.created_by modified_by_name_owner  , 'Users' modified_by_name_mod , jt1.user_name created_by_name , jt1.created_by created_by_name_owner  , 'Users' created_by_name_mod , project.name project_name , project.assigned_user_id project_name_owner  , 'Project' project_name_mod , jt3.user_name assigned_user_name , jt3.created_by assigned_user_name_owner  , 'Users' assigned_user_name_mod , jt4. projecttask_parent_name , jt4.assigned_user_id projecttask_parent_name_owner  , 'ProjectTask' projecttask_parent_name_mod FROM project_task   LEFT JOIN  users jt0 ON project_task.modified_user_id=jt0.id AND jt0.deleted=0
+
+ AND jt0.deleted=0  LEFT JOIN  users jt1 ON project_task.created_by=jt1.id AND jt1.deleted=0
+
+ AND jt1.deleted=0  LEFT JOIN  project project ON project_task.project_id=project.id AND project.deleted=0
+
+ AND project.deleted=0  LEFT JOIN  users jt3 ON project_task.assigned_user_id=jt3.id AND jt3.deleted=0
+
+ AND jt3.deleted=0  LEFT JOIN  project_task jt4 ON project_task.projecttask_parent_id=jt4.id AND jt4.deleted=0
+
+ AND jt4.deleted=0 where (project_task.project_id = '' AND project_task.predecessors = '0') AND project_task.deleted=0: MySQL error 1054: Unknown column 'jt4.projecttask_parent_name' in 'field list'
+Wed Sep 27 09:46:20 2017 [607021][47ac8059-d338-454f-1410-592eeab086f2][FATAL]  Query Failed:  SELECT  project_task.*  , jt0.user_name modified_by_name , jt0.created_by modified_by_name_owner  , 'Users' modified_by_name_mod , jt1.user_name created_by_name , jt1.created_by created_by_name_owner  , 'Users' created_by_name_mod , project.name project_name , project.assigned_user_id project_name_owner  , 'Project' project_name_mod , jt3.user_name assigned_user_name , jt3.created_by assigned_user_name_owner  , 'Users' assigned_user_name_mod , jt4. projecttask_parent_name , jt4.assigned_user_id projecttask_parent_name_owner  , 'ProjectTask' projecttask_parent_name_mod FROM project_task   LEFT JOIN  users jt0 ON project_task.modified_user_id=jt0.id AND jt0.deleted=0
+
+ AND jt0.deleted=0  LEFT JOIN  users jt1 ON project_task.created_by=jt1.id AND jt1.deleted=0
+
+ AND jt1.deleted=0  LEFT JOIN  project project ON project_task.project_id=project.id AND project.deleted=0
+
+ AND project.deleted=0  LEFT JOIN  users jt3 ON project_task.assigned_user_id=jt3.id AND jt3.deleted=0
+
+ AND jt3.deleted=0  LEFT JOIN  project_task jt4 ON project_task.projecttask_parent_id=jt4.id AND jt4.deleted=0
+
+ AND jt4.deleted=0 where (project_id = '') AND project_task.deleted=0: MySQL error 1054: Unknown column 'jt4.projecttask_parent_name' in 'field list'
+Wed Sep 27 09:46:20 2017 [607021][47ac8059-d338-454f-1410-592eeab086f2][FATAL]  Query Failed:  SELECT  project_task.*  , jt0.user_name modified_by_name , jt0.created_by modified_by_name_owner  , 'Users' modified_by_name_mod , jt1.user_name created_by_name , jt1.created_by created_by_name_owner  , 'Users' created_by_name_mod , project.name project_name , project.assigned_user_id project_name_owner  , 'Project' project_name_mod , jt3.user_name assigned_user_name , jt3.created_by assigned_user_name_owner  , 'Users' assigned_user_name_mod , jt4. projecttask_parent_name , jt4.assigned_user_id projecttask_parent_name_owner  , 'ProjectTask' projecttask_parent_name_mod FROM project_task   LEFT JOIN  users jt0 ON project_task.modified_user_id=jt0.id AND jt0.deleted=0
+
+ AND jt0.deleted=0  LEFT JOIN  users jt1 ON project_task.created_by=jt1.id AND jt1.deleted=0
+
+ AND jt1.deleted=0  LEFT JOIN  project project ON project_task.project_id=project.id AND project.deleted=0
+
+ AND project.deleted=0  LEFT JOIN  users jt3 ON project_task.assigned_user_id=jt3.id AND jt3.deleted=0
+
+ AND jt3.deleted=0  LEFT JOIN  project_task jt4 ON project_task.projecttask_parent_id=jt4.id AND jt4.deleted=0
+
+ AND jt4.deleted=0 where (project_task.project_id = '' AND project_task.predecessors = '0') AND project_task.deleted=0: MySQL error 1054: Unknown column 'jt4.projecttask_parent_name' in 'field list'
+Wed Sep 27 09:46:20 2017 [607021][47ac8059-d338-454f-1410-592eeab086f2][FATAL]  Query Failed:  SELECT  project_task.*  , jt0.user_name modified_by_name , jt0.created_by modified_by_name_owner  , 'Users' modified_by_name_mod , jt1.user_name created_by_name , jt1.created_by created_by_name_owner  , 'Users' created_by_name_mod , project.name project_name , project.assigned_user_id project_name_owner  , 'Project' project_name_mod , jt3.user_name assigned_user_name , jt3.created_by assigned_user_name_owner  , 'Users' assigned_user_name_mod , jt4. projecttask_parent_name , jt4.assigned_user_id projecttask_parent_name_owner  , 'ProjectTask' projecttask_parent_name_mod FROM project_task   LEFT JOIN  users jt0 ON project_task.modified_user_id=jt0.id AND jt0.deleted=0
+
+ AND jt0.deleted=0  LEFT JOIN  users jt1 ON project_task.created_by=jt1.id AND jt1.deleted=0
+
+ AND jt1.deleted=0  LEFT JOIN  project project ON project_task.project_id=project.id AND project.deleted=0
+
+ AND project.deleted=0  LEFT JOIN  users jt3 ON project_task.assigned_user_id=jt3.id AND jt3.deleted=0
+
+ AND jt3.deleted=0  LEFT JOIN  project_task jt4 ON project_task.projecttask_parent_id=jt4.id AND jt4.deleted=0
+
+ AND jt4.deleted=0 where (project_id = '') AND project_task.deleted=0: MySQL error 1054: Unknown column 'jt4.projecttask_parent_name' in 'field list'
+Wed Sep 27 09:46:20 2017 [607021][47ac8059-d338-454f-1410-592eeab086f2][FATAL] quotes for projects_quotes failed to load
+
+Wed Sep 27 09:46:20 2017 [607021][47ac8059-d338-454f-1410-592eeab086f2][FATAL] error loading relationship quotes
+Wed Sep 27 09:46:20 2017 [607021][47ac8059-d338-454f-1410-592eeab086f2][FATAL] quotes for projects_quotes failed to load
+
+Wed Sep 27 09:46:20 2017 [607021][47ac8059-d338-454f-1410-592eeab086f2][FATAL] error loading relationship quotes
+Wed Sep 27 09:46:20 2017 [607021][47ac8059-d338-454f-1410-592eeab086f2][FATAL]  Query Failed:  SELECT  project_task.*  , jt0.user_name modified_by_name , jt0.created_by modified_by_name_owner  , 'Users' modified_by_name_mod , jt1.user_name created_by_name , jt1.created_by created_by_name_owner  , 'Users' created_by_name_mod , project.name project_name , project.assigned_user_id project_name_owner  , 'Project' project_name_mod , jt3.user_name assigned_user_name , jt3.created_by assigned_user_name_owner  , 'Users' assigned_user_name_mod , jt4. projecttask_parent_name , jt4.assigned_user_id projecttask_parent_name_owner  , 'ProjectTask' projecttask_parent_name_mod FROM project_task   LEFT JOIN  users jt0 ON project_task.modified_user_id=jt0.id AND jt0.deleted=0
+
+ AND jt0.deleted=0  LEFT JOIN  users jt1 ON project_task.created_by=jt1.id AND jt1.deleted=0
+
+ AND jt1.deleted=0  LEFT JOIN  project project ON project_task.project_id=project.id AND project.deleted=0
+
+ AND project.deleted=0  LEFT JOIN  users jt3 ON project_task.assigned_user_id=jt3.id AND jt3.deleted=0
+
+ AND jt3.deleted=0  LEFT JOIN  project_task jt4 ON project_task.projecttask_parent_id=jt4.id AND jt4.deleted=0
+
+ AND jt4.deleted=0 where (project_task.project_id = '' AND project_task.predecessors = '0') AND project_task.deleted=0: MySQL error 1054: Unknown column 'jt4.projecttask_parent_name' in 'field list'
+Wed Sep 27 09:46:20 2017 [607021][47ac8059-d338-454f-1410-592eeab086f2][FATAL]  Query Failed:  SELECT  project_task.*  , jt0.user_name modified_by_name , jt0.created_by modified_by_name_owner  , 'Users' modified_by_name_mod , jt1.user_name created_by_name , jt1.created_by created_by_name_owner  , 'Users' created_by_name_mod , project.name project_name , project.assigned_user_id project_name_owner  , 'Project' project_name_mod , jt3.user_name assigned_user_name , jt3.created_by assigned_user_name_owner  , 'Users' assigned_user_name_mod , jt4. projecttask_parent_name , jt4.assigned_user_id projecttask_parent_name_owner  , 'ProjectTask' projecttask_parent_name_mod FROM project_task   LEFT JOIN  users jt0 ON project_task.modified_user_id=jt0.id AND jt0.deleted=0
+
+ AND jt0.deleted=0  LEFT JOIN  users jt1 ON project_task.created_by=jt1.id AND jt1.deleted=0
+
+ AND jt1.deleted=0  LEFT JOIN  project project ON project_task.project_id=project.id AND project.deleted=0
+
+ AND project.deleted=0  LEFT JOIN  users jt3 ON project_task.assigned_user_id=jt3.id AND jt3.deleted=0
+
+ AND jt3.deleted=0  LEFT JOIN  project_task jt4 ON project_task.projecttask_parent_id=jt4.id AND jt4.deleted=0
+
+ AND jt4.deleted=0 where (project_id = '') AND project_task.deleted=0: MySQL error 1054: Unknown column 'jt4.projecttask_parent_name' in 'field list'
+Wed Sep 27 11:17:03 2017 [678597][47ac8059-d338-454f-1410-592eeab086f2][FATAL] ERROR: rmdir_recursive(): argument cache/themes/SuiteR/modules is not a file or a dir.
+Wed Sep 27 11:17:03 2017 [678597][47ac8059-d338-454f-1410-592eeab086f2][FATAL] ERROR: rmdir_recursive(): argument cache/themes/Suite7/modules is not a file or a dir.
+Wed Sep 27 11:17:09 2017 [681235][47ac8059-d338-454f-1410-592eeab086f2][FATAL] ERROR: rmdir_recursive(): argument cache/themes/SuiteP/modules is not a file or a dir.
+Wed Sep 27 11:17:09 2017 [681235][47ac8059-d338-454f-1410-592eeab086f2][FATAL] ERROR: rmdir_recursive(): argument cache/themes/SuiteR/modules is not a file or a dir.
+Wed Sep 27 11:17:09 2017 [681235][47ac8059-d338-454f-1410-592eeab086f2][FATAL] ERROR: rmdir_recursive(): argument cache/themes/Suite7/modules is not a file or a dir.
+Wed Sep 27 11:41:16 2017 [1017896][47ac8059-d338-454f-1410-592eeab086f2][FATAL] ERROR: rmdir_recursive(): argument cache/themes/SuiteR/modules is not a file or a dir.
+Wed Sep 27 11:41:16 2017 [1017896][47ac8059-d338-454f-1410-592eeab086f2][FATAL] ERROR: rmdir_recursive(): argument cache/themes/Suite7/modules is not a file or a dir.
+Wed Sep 27 17:33:11 2017 [2213][-none-][FATAL] [LDAP ERROR][-1]Can't contact LDAP server
+Wed Sep 27 17:33:11 2017 [2213][-none-][FATAL] SECURITY: ldapauth: failed LDAP bind (login) by dariusc, could not construct bind_user
+Wed Sep 27 17:33:11 2017 [2213][-none-][FATAL] SECURITY: User authentication for dariusc failed
+Wed Sep 27 17:33:11 2017 [2213][-none-][FATAL] SECURITY: User authentication for dariusc failed
+Wed Sep 27 17:33:11 2017 [2213][-none-][FATAL] FAILED LOGIN:attempts[1] - dariusc
+Wed Sep 27 17:33:27 2017 [2915][-none-][FATAL] [LDAP ERROR][-1]Can't contact LDAP server
+Wed Sep 27 17:33:27 2017 [2915][-none-][FATAL] SECURITY: ldapauth: failed LDAP bind (login) by admin, could not construct bind_user
+Wed Sep 27 17:33:27 2017 [2915][-none-][FATAL] SECURITY: User authentication for admin failed
+Wed Sep 27 17:37:05 2017 [99839][-none-][FATAL] [LDAP ERROR][-1]Can't contact LDAP server
+Wed Sep 27 17:37:05 2017 [99839][-none-][FATAL] SECURITY: ldapauth: failed LDAP bind (login) by dariusc, could not construct bind_user
+Wed Sep 27 17:37:05 2017 [99839][-none-][FATAL] SECURITY: User authentication for dariusc failed
+Wed Sep 27 17:37:05 2017 [99839][-none-][FATAL] SECURITY: User authentication for dariusc failed
+Wed Sep 27 17:37:05 2017 [99839][-none-][FATAL] FAILED LOGIN:attempts[1] - dariusc
+Wed Sep 27 17:37:39 2017 [113152][-none-][FATAL] [LDAP ERROR][-1]Can't contact LDAP server
+Wed Sep 27 17:37:39 2017 [113152][-none-][FATAL] SECURITY: ldapauth: failed LDAP bind (login) by dariusc, could not construct bind_user
+Wed Sep 27 17:37:39 2017 [113152][-none-][FATAL] SECURITY: User authentication for dariusc failed
+Wed Sep 27 17:37:39 2017 [113152][-none-][FATAL] SECURITY: User authentication for dariusc failed
+Wed Sep 27 17:37:39 2017 [113152][-none-][FATAL] FAILED LOGIN:attempts[1] - dariusc
+Wed Sep 27 17:37:45 2017 [114995][-none-][FATAL] [LDAP ERROR][-1]Can't contact LDAP server
+Wed Sep 27 17:37:45 2017 [114995][-none-][FATAL] SECURITY: ldapauth: failed LDAP bind (login) by dariusc, could not construct bind_user
+Wed Sep 27 17:37:45 2017 [114995][-none-][FATAL] SECURITY: User authentication for dariusc failed
+Wed Sep 27 17:37:45 2017 [114995][-none-][FATAL] SECURITY: User authentication for dariusc failed
+Wed Sep 27 17:37:45 2017 [114995][-none-][FATAL] FAILED LOGIN:attempts[1] - dariusc
+Wed Sep 27 17:38:53 2017 [137138][1][FATAL] IP Address mismatch: SESSION IP: 184.69.128.190 CLIENT IP: 206.116.2.37
+Wed Sep 27 17:40:12 2017 [161978][-none-][FATAL] [LDAP ERROR][-1]Can't contact LDAP server
+Wed Sep 27 17:40:12 2017 [161978][-none-][FATAL] SECURITY: ldapauth: failed LDAP bind (login) by dariusc, could not construct bind_user
+Wed Sep 27 17:40:12 2017 [161978][-none-][FATAL] SECURITY: User authentication for dariusc failed
+Wed Sep 27 17:40:12 2017 [161978][-none-][FATAL] SECURITY: User authentication for dariusc failed
+Wed Sep 27 17:40:12 2017 [161978][-none-][FATAL] FAILED LOGIN:attempts[1] - dariusc
+Wed Sep 27 17:42:03 2017 [171423][-none-][FATAL] [LDAP ERROR][-1]Can't contact LDAP server
+Wed Sep 27 17:42:03 2017 [171423][-none-][FATAL] SECURITY: ldapauth: failed LDAP bind (login) by admin, could not construct bind_user
+Wed Sep 27 17:42:03 2017 [171423][-none-][FATAL] SECURITY: User authentication for admin failed
+Wed Sep 27 17:45:40 2017 [182756][-none-][FATAL] [LDAP ERROR][-1]Can't contact LDAP server
+Wed Sep 27 17:45:40 2017 [182756][-none-][FATAL] SECURITY: ldapauth: failed LDAP bind (login) by dariusc, could not construct bind_user
+Wed Sep 27 17:45:40 2017 [182756][-none-][FATAL] SECURITY: User authentication for dariusc failed
+Wed Sep 27 17:45:40 2017 [182756][-none-][FATAL] SECURITY: User authentication for dariusc failed
+Wed Sep 27 17:45:40 2017 [182756][-none-][FATAL] FAILED LOGIN:attempts[1] - dariusc
+Wed Sep 27 17:47:36 2017 [189909][-none-][FATAL] [LDAP ERROR][-1]Can't contact LDAP server
+Wed Sep 27 17:47:36 2017 [189909][-none-][FATAL] SECURITY: ldapauth: failed LDAP bind (login) by dariusc, could not construct bind_user
+Wed Sep 27 17:47:36 2017 [189909][-none-][FATAL] SECURITY: User authentication for dariusc failed
+Wed Sep 27 17:47:36 2017 [189909][-none-][FATAL] SECURITY: User authentication for dariusc failed
+Wed Sep 27 17:47:36 2017 [189909][-none-][FATAL] FAILED LOGIN:attempts[1] - dariusc
+Wed Sep 27 17:50:37 2017 [277639][-none-][FATAL] [LDAP ERROR][-1]Can't contact LDAP server
+Wed Sep 27 17:50:37 2017 [277639][-none-][FATAL] SECURITY: ldapauth: failed LDAP bind (login) by dariusc, could not construct bind_user
+Wed Sep 27 17:50:37 2017 [277639][-none-][FATAL] SECURITY: User authentication for dariusc failed
+Wed Sep 27 17:50:38 2017 [277639][-none-][FATAL] SECURITY: User authentication for dariusc failed
+Wed Sep 27 17:50:38 2017 [277639][-none-][FATAL] FAILED LOGIN:attempts[1] - dariusc
+Wed Sep 27 17:50:41 2017 [278741][-none-][FATAL] [LDAP ERROR][-1]Can't contact LDAP server
+Wed Sep 27 17:50:41 2017 [278741][-none-][FATAL] SECURITY: ldapauth: failed LDAP bind (login) by dariusc, could not construct bind_user
+Wed Sep 27 17:50:41 2017 [278741][-none-][FATAL] SECURITY: User authentication for dariusc failed
+Wed Sep 27 17:50:41 2017 [278741][-none-][FATAL] SECURITY: User authentication for dariusc failed
+Wed Sep 27 17:50:41 2017 [278741][-none-][FATAL] FAILED LOGIN:attempts[2] - dariusc
+Wed Sep 27 17:52:06 2017 [287479][1][FATAL] ERROR: rmdir_recursive(): argument cache/themes/SuiteR/modules is not a file or a dir.
+Wed Sep 27 17:52:06 2017 [287479][1][FATAL] ERROR: rmdir_recursive(): argument cache/themes/Suite7/modules is not a file or a dir.
+Wed Sep 27 18:57:10 2017 [27145][1][FATAL] SugarPHPMailer encountered an error: An outgoing mail server is not configured to send emails. Please configure an outgoing mail server or select an outgoing mail server for the mail account that you are using in Settings >> Mail Account.
+Wed Sep 27 18:57:10 2017 [27145][1][FATAL] SugarPHPMailer encountered an error: SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+Wed Sep 27 18:57:39 2017 [28225][1][FATAL] SugarPHPMailer encountered an error: An outgoing mail server is not configured to send emails. Please configure an outgoing mail server or select an outgoing mail server for the mail account that you are using in Settings >> Mail Account.
+Wed Sep 27 18:57:39 2017 [28225][1][FATAL] SugarPHPMailer encountered an error: SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+Thu Sep 28 20:56:58 2017 [52595][-none-][FATAL] [LDAP ERROR][-1]Can't contact LDAP server
+Thu Sep 28 20:56:58 2017 [52595][-none-][FATAL] SECURITY: ldapauth: failed LDAP bind (login) by admin, could not construct bind_user
+Thu Sep 28 20:56:58 2017 [52595][-none-][FATAL] SECURITY: User authentication for admin failed
+Thu Sep 28 20:58:07 2017 [54866][1][FATAL] SugarPHPMailer encountered an error: An outgoing mail server is not configured to send emails. Please configure an outgoing mail server or select an outgoing mail server for the mail account that you are using in Settings >> Mail Account.
+Thu Sep 28 20:58:07 2017 [54866][1][FATAL] SugarPHPMailer encountered an error: SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+Thu Sep 28 20:59:59 2017 [58128][1][FATAL] SugarPHPMailer encountered an error: SMTP Error: data not accepted.
+Thu Sep 28 21:37:07 2017 [546257][-none-][FATAL] [LDAP ERROR][-1]Can't contact LDAP server
+Thu Sep 28 21:37:07 2017 [546257][-none-][FATAL] SECURITY: ldapauth: failed LDAP bind (login) by dariusc, could not construct bind_user
+Thu Sep 28 21:37:07 2017 [546257][-none-][FATAL] SECURITY: User authentication for dariusc failed
+Thu Sep 28 21:37:07 2017 [546257][-none-][FATAL] SECURITY: User authentication for dariusc failed
+Thu Sep 28 21:37:07 2017 [546257][-none-][FATAL] FAILED LOGIN:attempts[1] - dariusc
+Thu Sep 28 23:03:56 2017 [440463][-none-][FATAL] [LDAP ERROR][-1]Can't contact LDAP server
+Thu Sep 28 23:03:56 2017 [440463][-none-][FATAL] SECURITY: ldapauth: failed LDAP bind (login) by dariusc, could not construct bind_user
+Thu Sep 28 23:03:56 2017 [440463][-none-][FATAL] SECURITY: User authentication for dariusc failed
+Thu Sep 28 23:03:56 2017 [440463][-none-][FATAL] SECURITY: User authentication for dariusc failed
+Thu Sep 28 23:03:56 2017 [440463][-none-][FATAL] FAILED LOGIN:attempts[1] - dariusc
+Thu Sep 28 23:09:39 2017 [548838][1][FATAL]  Query Failed: DESCRIBE versions: MySQL error 1146: Table 'dariefqc_crm.versions' doesn't exist
+Thu Sep 28 23:09:39 2017 [548838][1][FATAL]  Query Failed: SHOW INDEX FROM versions: MySQL error 1146: Table 'dariefqc_crm.versions' doesn't exist
+Thu Sep 28 23:09:39 2017 [548838][1][FATAL]  Query Failed: select * from versions: MySQL error 1146: Table 'dariefqc_crm.versions' doesn't exist
+Fri Sep 29 10:26:16 2017 [465199][-none-][FATAL] [LDAP ERROR][-1]Can't contact LDAP server
+Fri Sep 29 10:26:16 2017 [465199][-none-][FATAL] SECURITY: ldapauth: failed LDAP bind (login) by admin, could not construct bind_user
+Fri Sep 29 10:26:16 2017 [465199][-none-][FATAL] SECURITY: User authentication for admin failed
+Fri Sep 29 10:32:38 2017 [485255][1][FATAL] Failed to load original or custom subpanel data for eapm in modules//metadata/subpanels/.php
+Fri Sep 29 10:36:38 2017 [570924][-none-][FATAL] [LDAP ERROR][-1]Can't contact LDAP server
+Fri Sep 29 10:36:38 2017 [570924][-none-][FATAL] SECURITY: ldapauth: failed LDAP bind (login) by dariusc, could not construct bind_user
+Fri Sep 29 10:36:38 2017 [570924][-none-][FATAL] SECURITY: User authentication for dariusc failed
+Fri Sep 29 10:36:38 2017 [570924][-none-][FATAL] SECURITY: User authentication for dariusc failed
+Fri Sep 29 10:36:38 2017 [570924][-none-][FATAL] FAILED LOGIN:attempts[1] - dariusc
+Fri Sep 29 10:37:48 2017 [604358][-none-][FATAL] [LDAP ERROR][-1]Can't contact LDAP server
+Fri Sep 29 10:37:48 2017 [604358][-none-][FATAL] SECURITY: ldapauth: failed LDAP bind (login) by dariusc, could not construct bind_user
+Fri Sep 29 10:37:48 2017 [604358][-none-][FATAL] SECURITY: User authentication for dariusc failed
+Fri Sep 29 10:37:48 2017 [604358][-none-][FATAL] SECURITY: User authentication for dariusc failed
+Fri Sep 29 10:37:48 2017 [604358][-none-][FATAL] FAILED LOGIN:attempts[1] - dariusc
+Fri Sep 29 10:39:55 2017 [645261][-none-][FATAL] [LDAP ERROR][-1]Can't contact LDAP server
+Fri Sep 29 10:39:55 2017 [645261][-none-][FATAL] SECURITY: ldapauth: failed LDAP bind (login) by dariusc, could not construct bind_user
+Fri Sep 29 10:39:55 2017 [645261][-none-][FATAL] SECURITY: User authentication for dariusc failed
+Fri Sep 29 10:39:56 2017 [645261][-none-][FATAL] SECURITY: User authentication for dariusc failed
+Fri Sep 29 10:39:56 2017 [645261][-none-][FATAL] FAILED LOGIN:attempts[1] - dariusc
+Fri Sep 29 10:41:25 2017 [656374][-none-][FATAL] [LDAP ERROR][-1]Can't contact LDAP server
+Fri Sep 29 10:41:25 2017 [656374][-none-][FATAL] SECURITY: ldapauth: failed LDAP bind (login) by pacificom\dariusc, could not construct bind_user
+Fri Sep 29 10:41:25 2017 [656374][-none-][FATAL] SECURITY: User authentication for pacificom\dariusc failed
+Fri Sep 29 10:41:25 2017 [656374][-none-][FATAL] SECURITY: User authentication for pacificom\dariusc failed
+Fri Sep 29 10:41:25 2017 [656374][-none-][FATAL] FAILED LOGIN:attempts[1] - pacificom\dariusc
+Fri Sep 29 10:47:31 2017 [672532][-none-][FATAL] [LDAP ERROR][-1]Can't contact LDAP server
+Fri Sep 29 10:47:31 2017 [672532][-none-][FATAL] SECURITY: ldapauth: failed LDAP bind (login) by dariusc, could not construct bind_user
+Fri Sep 29 10:47:31 2017 [672532][-none-][FATAL] SECURITY: User authentication for dariusc failed
+Fri Sep 29 10:47:31 2017 [672532][-none-][FATAL] SECURITY: User authentication for dariusc failed
+Fri Sep 29 10:47:31 2017 [672532][-none-][FATAL] FAILED LOGIN:attempts[1] - dariusc
+Fri Sep 29 10:50:09 2017 [746660][-none-][FATAL] [LDAP ERROR][-1]Can't contact LDAP server
+Fri Sep 29 10:50:09 2017 [746660][-none-][FATAL] SECURITY: ldapauth: failed LDAP bind (login) by dariusc, could not construct bind_user
+Fri Sep 29 10:50:09 2017 [746660][-none-][FATAL] SECURITY: User authentication for dariusc failed
+Fri Sep 29 10:50:09 2017 [746660][-none-][FATAL] SECURITY: User authentication for dariusc failed
+Fri Sep 29 10:50:09 2017 [746660][-none-][FATAL] FAILED LOGIN:attempts[1] - dariusc
+Fri Sep 29 10:51:10 2017 [773169][-none-][FATAL] [LDAP ERROR][-1]Can't contact LDAP server
+Fri Sep 29 10:51:10 2017 [773169][-none-][FATAL] SECURITY: ldapauth: failed LDAP bind (login) by dariusc, could not construct bind_user
+Fri Sep 29 10:51:10 2017 [773169][-none-][FATAL] SECURITY: User authentication for dariusc failed
+Fri Sep 29 10:51:10 2017 [773169][-none-][FATAL] SECURITY: User authentication for dariusc failed
+Fri Sep 29 10:51:10 2017 [773169][-none-][FATAL] FAILED LOGIN:attempts[1] - dariusc
+Fri Sep 29 10:56:50 2017 [822378][-none-][FATAL] [LDAP ERROR][-1]Can't contact LDAP server
+Fri Sep 29 10:56:50 2017 [822378][-none-][FATAL] SECURITY: ldapauth: failed LDAP bind (login) by aashishl, could not construct bind_user
+Fri Sep 29 10:56:50 2017 [822378][-none-][FATAL] SECURITY: User authentication for aashishl failed
+Fri Sep 29 10:56:50 2017 [822378][-none-][FATAL] SECURITY: User authentication for aashishl failed
+Fri Sep 29 10:56:50 2017 [822378][-none-][FATAL] FAILED LOGIN:attempts[1] - aashishl
+Fri Sep 29 10:57:54 2017 [837780][-none-][FATAL] [LDAP ERROR][-1]Can't contact LDAP server
+Fri Sep 29 10:57:54 2017 [837780][-none-][FATAL] SECURITY: ldapauth: failed LDAP bind (login) by aashishl, could not construct bind_user
+Fri Sep 29 10:57:54 2017 [837780][-none-][FATAL] SECURITY: User authentication for aashishl failed
+Fri Sep 29 10:57:54 2017 [837780][-none-][FATAL] SECURITY: User authentication for aashishl failed
+Fri Sep 29 10:57:54 2017 [837780][-none-][FATAL] FAILED LOGIN:attempts[1] - aashishl
+Fri Sep 29 10:58:04 2017 [838092][-none-][FATAL] [LDAP ERROR][-1]Can't contact LDAP server
+Fri Sep 29 10:58:04 2017 [838092][-none-][FATAL] SECURITY: ldapauth: failed LDAP bind (login) by dariusc, could not construct bind_user
+Fri Sep 29 10:58:04 2017 [838092][-none-][FATAL] SECURITY: User authentication for dariusc failed
+Fri Sep 29 10:58:04 2017 [838092][-none-][FATAL] SECURITY: User authentication for dariusc failed
+Fri Sep 29 10:58:04 2017 [838092][-none-][FATAL] FAILED LOGIN:attempts[1] - dariusc
+Fri Sep 29 11:05:48 2017 [865796][-none-][FATAL] [LDAP ERROR][-1]Can't contact LDAP server
+Fri Sep 29 11:05:48 2017 [865796][-none-][FATAL] SECURITY: ldapauth: failed LDAP bind (login) by aashishl, could not construct bind_user
+Fri Sep 29 11:05:48 2017 [865796][-none-][FATAL] SECURITY: User authentication for aashishl failed
+Fri Sep 29 11:05:48 2017 [865796][-none-][FATAL] SECURITY: User authentication for aashishl failed
+Fri Sep 29 11:05:48 2017 [865796][-none-][FATAL] FAILED LOGIN:attempts[1] - aashishl
+Fri Sep 29 11:06:45 2017 [883362][-none-][FATAL] [LDAP ERROR][-1]Can't contact LDAP server
+Fri Sep 29 11:06:45 2017 [883362][-none-][FATAL] SECURITY: ldapauth: failed LDAP bind (login) by aashishl, could not construct bind_user
+Fri Sep 29 11:06:45 2017 [883362][-none-][FATAL] SECURITY: User authentication for aashishl failed
+Fri Sep 29 11:06:45 2017 [883362][-none-][FATAL] SECURITY: User authentication for aashishl failed
+Fri Sep 29 11:06:45 2017 [883362][-none-][FATAL] FAILED LOGIN:attempts[1] - aashishl
+Fri Sep 29 12:00:24 2017 [545130][1][FATAL] IP Address mismatch: SESSION IP: 184.69.128.190 CLIENT IP: 206.116.2.37
+Fri Sep 29 14:19:35 2017 [165425][-none-][FATAL] [LDAP ERROR][-1]Can't contact LDAP server
+Fri Sep 29 14:19:35 2017 [165425][-none-][FATAL] SECURITY: ldapauth: failed LDAP bind (login) by admin, could not construct bind_user
+Fri Sep 29 14:19:35 2017 [165425][-none-][FATAL] SECURITY: User authentication for admin failed
+Fri Sep 29 18:45:41 2017 [235421][-none-][FATAL] [LDAP ERROR][-1]Can't contact LDAP server
+Fri Sep 29 18:45:41 2017 [235421][-none-][FATAL] SECURITY: ldapauth: failed LDAP bind (login) by admin, could not construct bind_user
+Fri Sep 29 18:45:41 2017 [235421][-none-][FATAL] SECURITY: User authentication for admin failed
+Fri Sep 29 18:46:35 2017 [237191][-none-][FATAL] [LDAP ERROR][-1]Can't contact LDAP server
+Fri Sep 29 18:46:35 2017 [237191][-none-][FATAL] SECURITY: ldapauth: failed LDAP bind (login) by aashishl, could not construct bind_user
+Fri Sep 29 18:46:35 2017 [237191][-none-][FATAL] SECURITY: User authentication for aashishl failed
+Fri Sep 29 18:46:35 2017 [237191][-none-][FATAL] SECURITY: User authentication for aashishl failed
+Fri Sep 29 18:46:35 2017 [237191][-none-][FATAL] FAILED LOGIN:attempts[1] - aashishl
+Sat Sep 30 12:55:39 2017 [818010][-none-][FATAL] [LDAP ERROR][-1]Can't contact LDAP server
+Sat Sep 30 12:55:39 2017 [818010][-none-][FATAL] SECURITY: ldapauth: failed LDAP bind (login) by admin, could not construct bind_user
+Sat Sep 30 12:55:39 2017 [818010][-none-][FATAL] SECURITY: User authentication for admin failed
+Sat Sep 30 13:00:38 2017 [855822][1][FATAL] Caught error: stat(): stat failed for upload/import/status_1.csv
+Sat Sep 30 13:00:38 2017 [855822][1][FATAL] Caught error: touch(): UploadStream::stream_metadata is not implemented!
+Sat Sep 30 19:07:07 2017 [45583][-none-][FATAL] [LDAP ERROR][-1]Can't contact LDAP server
+Sat Sep 30 19:07:07 2017 [45583][-none-][FATAL] SECURITY: ldapauth: failed LDAP bind (login) by admin, could not construct bind_user
+Sat Sep 30 19:07:07 2017 [45583][-none-][FATAL] SECURITY: User authentication for admin failed
+Sat Sep 30 19:07:29 2017 [59199][1][FATAL] Failed to load original or custom subpanel data for eapm in modules//metadata/subpanels/.php
+Sat Sep 30 19:08:28 2017 [89759][1][FATAL] Failed to load original or custom subpanel data for eapm in modules//metadata/subpanels/.php
+Sat Sep 30 19:10:14 2017 [103024][-none-][FATAL] SECURITY: User authentication for dariusc failed
+Sat Sep 30 19:10:15 2017 [103024][-none-][FATAL] FAILED LOGIN:attempts[1] - dariusc
+Sat Sep 30 19:12:22 2017 [106605][-none-][FATAL] SECURITY: User authentication for dariusc failed
+Sat Sep 30 19:12:22 2017 [106605][-none-][FATAL] FAILED LOGIN:attempts[1] - dariusc
+Sat Sep 30 19:12:25 2017 [106748][-none-][FATAL] SECURITY: User authentication for dariusc failed
+Sat Sep 30 19:12:25 2017 [106748][-none-][FATAL] FAILED LOGIN:attempts[1] - dariusc
+Sat Sep 30 19:12:42 2017 [110250][-none-][FATAL] SECURITY: User authentication for dariusc failed
+Sat Sep 30 19:12:42 2017 [110250][-none-][FATAL] FAILED LOGIN:attempts[1] - dariusc
+Sat Sep 30 19:15:08 2017 [159610][-none-][FATAL] SECURITY: User authentication for dariusc failed
+Sat Sep 30 19:15:08 2017 [159610][-none-][FATAL] FAILED LOGIN:attempts[1] - dariusc
+Sat Sep 30 19:15:16 2017 [163853][-none-][FATAL] SECURITY: User authentication for dariusc failed
+Sat Sep 30 19:15:16 2017 [163853][-none-][FATAL] FAILED LOGIN:attempts[1] - dariusc
+Sat Sep 30 19:15:49 2017 [174450][-none-][FATAL] SECURITY: User authentication for dariusc failed
+Sat Sep 30 19:15:49 2017 [174450][-none-][FATAL] FAILED LOGIN:attempts[1] - dariusc
+Sat Sep 30 19:15:58 2017 [177028][-none-][FATAL] SECURITY: User authentication for dariusc failed
+Sat Sep 30 19:15:58 2017 [177028][-none-][FATAL] FAILED LOGIN:attempts[1] - dariusc
+Sat Sep 30 19:16:13 2017 [181844][-none-][FATAL] SECURITY: User authentication for dariusc failed
+Sat Sep 30 19:16:13 2017 [181844][-none-][FATAL] FAILED LOGIN:attempts[1] - dariusc
+Sat Sep 30 19:17:20 2017 [202028][1][FATAL] SECURITY: User authentication for dariusc failed
+Sat Sep 30 19:17:20 2017 [202028][1][FATAL] FAILED LOGIN:attempts[2] - dariusc
+Sat Sep 30 19:17:36 2017 [207211][-none-][FATAL] SECURITY: User authentication for dariusc failed
+Sat Sep 30 19:17:36 2017 [207211][-none-][FATAL] FAILED LOGIN:attempts[1] - dariusc
+Sat Sep 30 19:18:03 2017 [214658][-none-][FATAL] SECURITY: User authentication for dariusc failed
+Sat Sep 30 19:18:03 2017 [214658][-none-][FATAL] FAILED LOGIN:attempts[1] - dariusc
+Sat Sep 30 19:18:11 2017 [215586][-none-][FATAL] SECURITY: User authentication for dariusc failed
+Sat Sep 30 19:18:11 2017 [215586][-none-][FATAL] FAILED LOGIN:attempts[1] - dariusc
+Sat Sep 30 19:18:30 2017 [216494][1][FATAL] project_resource for projects_users_resources failed to load
+
+Sat Sep 30 19:18:30 2017 [216494][1][FATAL] error loading relationship project_resource
+Sat Sep 30 19:18:30 2017 [216494][1][FATAL] am_projecttemplates_resources for am_projecttemplates_users_resources failed to load
+
+Sat Sep 30 19:18:30 2017 [216494][1][FATAL] error loading relationship am_projecttemplates_resources
+Sat Sep 30 19:27:27 2017 [346389][14930312-dd32-8472-b382-59d02644034f][FATAL] Caught error: stat(): stat failed for upload/import/status_14930312-dd32-8472-b382-59d02644034f.csv
+Sat Sep 30 19:27:27 2017 [346389][14930312-dd32-8472-b382-59d02644034f][FATAL] Caught error: touch(): UploadStream::stream_metadata is not implemented!
+Sat Sep 30 19:33:53 2017 [358803][14930312-dd32-8472-b382-59d02644034f][FATAL]  Query Failed:  SELECT  project_task.*  , jt0.user_name modified_by_name , jt0.created_by modified_by_name_owner  , 'Users' modified_by_name_mod , jt1.user_name created_by_name , jt1.created_by created_by_name_owner  , 'Users' created_by_name_mod , project.name project_name , project.assigned_user_id project_name_owner  , 'Project' project_name_mod , jt3.user_name assigned_user_name , jt3.created_by assigned_user_name_owner  , 'Users' assigned_user_name_mod , jt4. projecttask_parent_name , jt4.assigned_user_id projecttask_parent_name_owner  , 'ProjectTask' projecttask_parent_name_mod FROM project_task   LEFT JOIN  users jt0 ON project_task.modified_user_id=jt0.id AND jt0.deleted=0
+
+ AND jt0.deleted=0  LEFT JOIN  users jt1 ON project_task.created_by=jt1.id AND jt1.deleted=0
+
+ AND jt1.deleted=0  LEFT JOIN  project project ON project_task.project_id=project.id AND project.deleted=0
+
+ AND project.deleted=0  LEFT JOIN  users jt3 ON project_task.assigned_user_id=jt3.id AND jt3.deleted=0
+
+ AND jt3.deleted=0  LEFT JOIN  project_task jt4 ON project_task.projecttask_parent_id=jt4.id AND jt4.deleted=0
+
+ AND jt4.deleted=0 where (project_task.project_id = '96cbe156-412f-6854-dd4b-59d02917310b') AND project_task.deleted=0 ORDER BY project_task.order_number: MySQL error 1054: Unknown column 'jt4.projecttask_parent_name' in 'field list'
+Sat Sep 30 19:33:54 2017 [358821][14930312-dd32-8472-b382-59d02644034f][FATAL]  Query Failed:  SELECT  project_task.*  , jt0.user_name modified_by_name , jt0.created_by modified_by_name_owner  , 'Users' modified_by_name_mod , jt1.user_name created_by_name , jt1.created_by created_by_name_owner  , 'Users' created_by_name_mod , project.name project_name , project.assigned_user_id project_name_owner  , 'Project' project_name_mod , jt3.user_name assigned_user_name , jt3.created_by assigned_user_name_owner  , 'Users' assigned_user_name_mod , jt4. projecttask_parent_name , jt4.assigned_user_id projecttask_parent_name_owner  , 'ProjectTask' projecttask_parent_name_mod FROM project_task   LEFT JOIN  users jt0 ON project_task.modified_user_id=jt0.id AND jt0.deleted=0
+
+ AND jt0.deleted=0  LEFT JOIN  users jt1 ON project_task.created_by=jt1.id AND jt1.deleted=0
+
+ AND jt1.deleted=0  LEFT JOIN  project project ON project_task.project_id=project.id AND project.deleted=0
+
+ AND project.deleted=0  LEFT JOIN  users jt3 ON project_task.assigned_user_id=jt3.id AND jt3.deleted=0
+
+ AND jt3.deleted=0  LEFT JOIN  project_task jt4 ON project_task.projecttask_parent_id=jt4.id AND jt4.deleted=0
+
+ AND jt4.deleted=0 where (project_task.project_id = '96cbe156-412f-6854-dd4b-59d02917310b') AND project_task.deleted=0 ORDER BY project_task.order_number: MySQL error 1054: Unknown column 'jt4.projecttask_parent_name' in 'field list'
+Sat Sep 30 19:35:08 2017 [392199][14930312-dd32-8472-b382-59d02644034f][FATAL]  Query Failed:  SELECT  project_task.*  , jt0.user_name modified_by_name , jt0.created_by modified_by_name_owner  , 'Users' modified_by_name_mod , jt1.user_name created_by_name , jt1.created_by created_by_name_owner  , 'Users' created_by_name_mod , project.name project_name , project.assigned_user_id project_name_owner  , 'Project' project_name_mod , jt3.user_name assigned_user_name , jt3.created_by assigned_user_name_owner  , 'Users' assigned_user_name_mod , jt4. projecttask_parent_name , jt4.assigned_user_id projecttask_parent_name_owner  , 'ProjectTask' projecttask_parent_name_mod FROM project_task   LEFT JOIN  users jt0 ON project_task.modified_user_id=jt0.id AND jt0.deleted=0
+
+ AND jt0.deleted=0  LEFT JOIN  users jt1 ON project_task.created_by=jt1.id AND jt1.deleted=0
+
+ AND jt1.deleted=0  LEFT JOIN  project project ON project_task.project_id=project.id AND project.deleted=0
+
+ AND project.deleted=0  LEFT JOIN  users jt3 ON project_task.assigned_user_id=jt3.id AND jt3.deleted=0
+
+ AND jt3.deleted=0  LEFT JOIN  project_task jt4 ON project_task.projecttask_parent_id=jt4.id AND jt4.deleted=0
+
+ AND jt4.deleted=0 where (project_task.project_id = 'ea950d00-0c96-8a12-fe74-59d02a3ce49d') AND project_task.deleted=0 ORDER BY project_task.order_number: MySQL error 1054: Unknown column 'jt4.projecttask_parent_name' in 'field list'
+Sat Sep 30 19:35:09 2017 [392563][14930312-dd32-8472-b382-59d02644034f][FATAL]  Query Failed:  SELECT  project_task.*  , jt0.user_name modified_by_name , jt0.created_by modified_by_name_owner  , 'Users' modified_by_name_mod , jt1.user_name created_by_name , jt1.created_by created_by_name_owner  , 'Users' created_by_name_mod , project.name project_name , project.assigned_user_id project_name_owner  , 'Project' project_name_mod , jt3.user_name assigned_user_name , jt3.created_by assigned_user_name_owner  , 'Users' assigned_user_name_mod , jt4. projecttask_parent_name , jt4.assigned_user_id projecttask_parent_name_owner  , 'ProjectTask' projecttask_parent_name_mod FROM project_task   LEFT JOIN  users jt0 ON project_task.modified_user_id=jt0.id AND jt0.deleted=0
+
+ AND jt0.deleted=0  LEFT JOIN  users jt1 ON project_task.created_by=jt1.id AND jt1.deleted=0
+
+ AND jt1.deleted=0  LEFT JOIN  project project ON project_task.project_id=project.id AND project.deleted=0
+
+ AND project.deleted=0  LEFT JOIN  users jt3 ON project_task.assigned_user_id=jt3.id AND jt3.deleted=0
+
+ AND jt3.deleted=0  LEFT JOIN  project_task jt4 ON project_task.projecttask_parent_id=jt4.id AND jt4.deleted=0
+
+ AND jt4.deleted=0 where (project_task.project_id = 'ea950d00-0c96-8a12-fe74-59d02a3ce49d') AND project_task.deleted=0 ORDER BY project_task.order_number: MySQL error 1054: Unknown column 'jt4.projecttask_parent_name' in 'field list'
+Sat Sep 30 19:36:38 2017 [445319][14930312-dd32-8472-b382-59d02644034f][FATAL]  Query Failed:  SELECT  project_task.*  , jt0.user_name modified_by_name , jt0.created_by modified_by_name_owner  , 'Users' modified_by_name_mod , jt1.user_name created_by_name , jt1.created_by created_by_name_owner  , 'Users' created_by_name_mod , project.name project_name , project.assigned_user_id project_name_owner  , 'Project' project_name_mod , jt3.user_name assigned_user_name , jt3.created_by assigned_user_name_owner  , 'Users' assigned_user_name_mod , jt4. projecttask_parent_name , jt4.assigned_user_id projecttask_parent_name_owner  , 'ProjectTask' projecttask_parent_name_mod FROM project_task   LEFT JOIN  users jt0 ON project_task.modified_user_id=jt0.id AND jt0.deleted=0
+
+ AND jt0.deleted=0  LEFT JOIN  users jt1 ON project_task.created_by=jt1.id AND jt1.deleted=0
+
+ AND jt1.deleted=0  LEFT JOIN  project project ON project_task.project_id=project.id AND project.deleted=0
+
+ AND project.deleted=0  LEFT JOIN  users jt3 ON project_task.assigned_user_id=jt3.id AND jt3.deleted=0
+
+ AND jt3.deleted=0  LEFT JOIN  project_task jt4 ON project_task.projecttask_parent_id=jt4.id AND jt4.deleted=0
+
+ AND jt4.deleted=0 where (project_task.project_id = 'ba0281a4-318a-6fb8-525e-59d02a45ee65') AND project_task.deleted=0 ORDER BY project_task.order_number: MySQL error 1054: Unknown column 'jt4.projecttask_parent_name' in 'field list'
+Sat Sep 30 19:36:38 2017 [445486][14930312-dd32-8472-b382-59d02644034f][FATAL]  Query Failed:  SELECT  project_task.*  , jt0.user_name modified_by_name , jt0.created_by modified_by_name_owner  , 'Users' modified_by_name_mod , jt1.user_name created_by_name , jt1.created_by created_by_name_owner  , 'Users' created_by_name_mod , project.name project_name , project.assigned_user_id project_name_owner  , 'Project' project_name_mod , jt3.user_name assigned_user_name , jt3.created_by assigned_user_name_owner  , 'Users' assigned_user_name_mod , jt4. projecttask_parent_name , jt4.assigned_user_id projecttask_parent_name_owner  , 'ProjectTask' projecttask_parent_name_mod FROM project_task   LEFT JOIN  users jt0 ON project_task.modified_user_id=jt0.id AND jt0.deleted=0
+
+ AND jt0.deleted=0  LEFT JOIN  users jt1 ON project_task.created_by=jt1.id AND jt1.deleted=0
+
+ AND jt1.deleted=0  LEFT JOIN  project project ON project_task.project_id=project.id AND project.deleted=0
+
+ AND project.deleted=0  LEFT JOIN  users jt3 ON project_task.assigned_user_id=jt3.id AND jt3.deleted=0
+
+ AND jt3.deleted=0  LEFT JOIN  project_task jt4 ON project_task.projecttask_parent_id=jt4.id AND jt4.deleted=0
+
+ AND jt4.deleted=0 where (project_task.project_id = 'ba0281a4-318a-6fb8-525e-59d02a45ee65') AND project_task.deleted=0 ORDER BY project_task.order_number: MySQL error 1054: Unknown column 'jt4.projecttask_parent_name' in 'field list'
+Sat Sep 30 19:37:48 2017 [475511][14930312-dd32-8472-b382-59d02644034f][FATAL]  Query Failed:  SELECT  project_task.*  , jt0.user_name modified_by_name , jt0.created_by modified_by_name_owner  , 'Users' modified_by_name_mod , jt1.user_name created_by_name , jt1.created_by created_by_name_owner  , 'Users' created_by_name_mod , project.name project_name , project.assigned_user_id project_name_owner  , 'Project' project_name_mod , jt3.user_name assigned_user_name , jt3.created_by assigned_user_name_owner  , 'Users' assigned_user_name_mod , jt4. projecttask_parent_name , jt4.assigned_user_id projecttask_parent_name_owner  , 'ProjectTask' projecttask_parent_name_mod FROM project_task   LEFT JOIN  users jt0 ON project_task.modified_user_id=jt0.id AND jt0.deleted=0
+
+ AND jt0.deleted=0  LEFT JOIN  users jt1 ON project_task.created_by=jt1.id AND jt1.deleted=0
+
+ AND jt1.deleted=0  LEFT JOIN  project project ON project_task.project_id=project.id AND project.deleted=0
+
+ AND project.deleted=0  LEFT JOIN  users jt3 ON project_task.assigned_user_id=jt3.id AND jt3.deleted=0
+
+ AND jt3.deleted=0  LEFT JOIN  project_task jt4 ON project_task.projecttask_parent_id=jt4.id AND jt4.deleted=0
+
+ AND jt4.deleted=0 where (project_task.project_id = '5bb911db-58fb-cd0b-15a3-59d02a12a178') AND project_task.deleted=0 ORDER BY project_task.order_number: MySQL error 1054: Unknown column 'jt4.projecttask_parent_name' in 'field list'
+Sat Sep 30 19:37:49 2017 [475800][14930312-dd32-8472-b382-59d02644034f][FATAL]  Query Failed:  SELECT  project_task.*  , jt0.user_name modified_by_name , jt0.created_by modified_by_name_owner  , 'Users' modified_by_name_mod , jt1.user_name created_by_name , jt1.created_by created_by_name_owner  , 'Users' created_by_name_mod , project.name project_name , project.assigned_user_id project_name_owner  , 'Project' project_name_mod , jt3.user_name assigned_user_name , jt3.created_by assigned_user_name_owner  , 'Users' assigned_user_name_mod , jt4. projecttask_parent_name , jt4.assigned_user_id projecttask_parent_name_owner  , 'ProjectTask' projecttask_parent_name_mod FROM project_task   LEFT JOIN  users jt0 ON project_task.modified_user_id=jt0.id AND jt0.deleted=0
+
+ AND jt0.deleted=0  LEFT JOIN  users jt1 ON project_task.created_by=jt1.id AND jt1.deleted=0
+
+ AND jt1.deleted=0  LEFT JOIN  project project ON project_task.project_id=project.id AND project.deleted=0
+
+ AND project.deleted=0  LEFT JOIN  users jt3 ON project_task.assigned_user_id=jt3.id AND jt3.deleted=0
+
+ AND jt3.deleted=0  LEFT JOIN  project_task jt4 ON project_task.projecttask_parent_id=jt4.id AND jt4.deleted=0
+
+ AND jt4.deleted=0 where (project_task.project_id = '5bb911db-58fb-cd0b-15a3-59d02a12a178') AND project_task.deleted=0 ORDER BY project_task.order_number: MySQL error 1054: Unknown column 'jt4.projecttask_parent_name' in 'field list'
+Sat Sep 30 19:38:52 2017 [495956][14930312-dd32-8472-b382-59d02644034f][FATAL]  Query Failed:  SELECT  project_task.*  , jt0.user_name modified_by_name , jt0.created_by modified_by_name_owner  , 'Users' modified_by_name_mod , jt1.user_name created_by_name , jt1.created_by created_by_name_owner  , 'Users' created_by_name_mod , project.name project_name , project.assigned_user_id project_name_owner  , 'Project' project_name_mod , jt3.user_name assigned_user_name , jt3.created_by assigned_user_name_owner  , 'Users' assigned_user_name_mod , jt4. projecttask_parent_name , jt4.assigned_user_id projecttask_parent_name_owner  , 'ProjectTask' projecttask_parent_name_mod FROM project_task   LEFT JOIN  users jt0 ON project_task.modified_user_id=jt0.id AND jt0.deleted=0
+
+ AND jt0.deleted=0  LEFT JOIN  users jt1 ON project_task.created_by=jt1.id AND jt1.deleted=0
+
+ AND jt1.deleted=0  LEFT JOIN  project project ON project_task.project_id=project.id AND project.deleted=0
+
+ AND project.deleted=0  LEFT JOIN  users jt3 ON project_task.assigned_user_id=jt3.id AND jt3.deleted=0
+
+ AND jt3.deleted=0  LEFT JOIN  project_task jt4 ON project_task.projecttask_parent_id=jt4.id AND jt4.deleted=0
+
+ AND jt4.deleted=0 where (project_task.project_id = 'e383933c-aa31-4baf-634b-59d02b5e1951') AND project_task.deleted=0 ORDER BY project_task.order_number: MySQL error 1054: Unknown column 'jt4.projecttask_parent_name' in 'field list'
+Sat Sep 30 19:38:53 2017 [496230][14930312-dd32-8472-b382-59d02644034f][FATAL]  Query Failed:  SELECT  project_task.*  , jt0.user_name modified_by_name , jt0.created_by modified_by_name_owner  , 'Users' modified_by_name_mod , jt1.user_name created_by_name , jt1.created_by created_by_name_owner  , 'Users' created_by_name_mod , project.name project_name , project.assigned_user_id project_name_owner  , 'Project' project_name_mod , jt3.user_name assigned_user_name , jt3.created_by assigned_user_name_owner  , 'Users' assigned_user_name_mod , jt4. projecttask_parent_name , jt4.assigned_user_id projecttask_parent_name_owner  , 'ProjectTask' projecttask_parent_name_mod FROM project_task   LEFT JOIN  users jt0 ON project_task.modified_user_id=jt0.id AND jt0.deleted=0
+
+ AND jt0.deleted=0  LEFT JOIN  users jt1 ON project_task.created_by=jt1.id AND jt1.deleted=0
+
+ AND jt1.deleted=0  LEFT JOIN  project project ON project_task.project_id=project.id AND project.deleted=0
+
+ AND project.deleted=0  LEFT JOIN  users jt3 ON project_task.assigned_user_id=jt3.id AND jt3.deleted=0
+
+ AND jt3.deleted=0  LEFT JOIN  project_task jt4 ON project_task.projecttask_parent_id=jt4.id AND jt4.deleted=0
+
+ AND jt4.deleted=0 where (project_task.project_id = 'e383933c-aa31-4baf-634b-59d02b5e1951') AND project_task.deleted=0 ORDER BY project_task.order_number: MySQL error 1054: Unknown column 'jt4.projecttask_parent_name' in 'field list'
+Sat Sep 30 19:40:27 2017 [519969][14930312-dd32-8472-b382-59d02644034f][FATAL]  Query Failed:  SELECT  project_task.*  , jt0.user_name modified_by_name , jt0.created_by modified_by_name_owner  , 'Users' modified_by_name_mod , jt1.user_name created_by_name , jt1.created_by created_by_name_owner  , 'Users' created_by_name_mod , project.name project_name , project.assigned_user_id project_name_owner  , 'Project' project_name_mod , jt3.user_name assigned_user_name , jt3.created_by assigned_user_name_owner  , 'Users' assigned_user_name_mod , jt4. projecttask_parent_name , jt4.assigned_user_id projecttask_parent_name_owner  , 'ProjectTask' projecttask_parent_name_mod FROM project_task   LEFT JOIN  users jt0 ON project_task.modified_user_id=jt0.id AND jt0.deleted=0
+
+ AND jt0.deleted=0  LEFT JOIN  users jt1 ON project_task.created_by=jt1.id AND jt1.deleted=0
+
+ AND jt1.deleted=0  LEFT JOIN  project project ON project_task.project_id=project.id AND project.deleted=0
+
+ AND project.deleted=0  LEFT JOIN  users jt3 ON project_task.assigned_user_id=jt3.id AND jt3.deleted=0
+
+ AND jt3.deleted=0  LEFT JOIN  project_task jt4 ON project_task.projecttask_parent_id=jt4.id AND jt4.deleted=0
+
+ AND jt4.deleted=0 where (project_task.project_id = '4a1af129-d7ca-b71d-4518-59d02b0f3874') AND project_task.deleted=0 ORDER BY project_task.order_number: MySQL error 1054: Unknown column 'jt4.projecttask_parent_name' in 'field list'
+Sat Sep 30 19:40:28 2017 [519983][14930312-dd32-8472-b382-59d02644034f][FATAL]  Query Failed:  SELECT  project_task.*  , jt0.user_name modified_by_name , jt0.created_by modified_by_name_owner  , 'Users' modified_by_name_mod , jt1.user_name created_by_name , jt1.created_by created_by_name_owner  , 'Users' created_by_name_mod , project.name project_name , project.assigned_user_id project_name_owner  , 'Project' project_name_mod , jt3.user_name assigned_user_name , jt3.created_by assigned_user_name_owner  , 'Users' assigned_user_name_mod , jt4. projecttask_parent_name , jt4.assigned_user_id projecttask_parent_name_owner  , 'ProjectTask' projecttask_parent_name_mod FROM project_task   LEFT JOIN  users jt0 ON project_task.modified_user_id=jt0.id AND jt0.deleted=0
+
+ AND jt0.deleted=0  LEFT JOIN  users jt1 ON project_task.created_by=jt1.id AND jt1.deleted=0
+
+ AND jt1.deleted=0  LEFT JOIN  project project ON project_task.project_id=project.id AND project.deleted=0
+
+ AND project.deleted=0  LEFT JOIN  users jt3 ON project_task.assigned_user_id=jt3.id AND jt3.deleted=0
+
+ AND jt3.deleted=0  LEFT JOIN  project_task jt4 ON project_task.projecttask_parent_id=jt4.id AND jt4.deleted=0
+
+ AND jt4.deleted=0 where (project_task.project_id = '4a1af129-d7ca-b71d-4518-59d02b0f3874') AND project_task.deleted=0 ORDER BY project_task.order_number: MySQL error 1054: Unknown column 'jt4.projecttask_parent_name' in 'field list'
+Sat Sep 30 19:41:31 2017 [521905][14930312-dd32-8472-b382-59d02644034f][FATAL]  Query Failed:  SELECT  project_task.*  , jt0.user_name modified_by_name , jt0.created_by modified_by_name_owner  , 'Users' modified_by_name_mod , jt1.user_name created_by_name , jt1.created_by created_by_name_owner  , 'Users' created_by_name_mod , project.name project_name , project.assigned_user_id project_name_owner  , 'Project' project_name_mod , jt3.user_name assigned_user_name , jt3.created_by assigned_user_name_owner  , 'Users' assigned_user_name_mod , jt4. projecttask_parent_name , jt4.assigned_user_id projecttask_parent_name_owner  , 'ProjectTask' projecttask_parent_name_mod FROM project_task   LEFT JOIN  users jt0 ON project_task.modified_user_id=jt0.id AND jt0.deleted=0
+
+ AND jt0.deleted=0  LEFT JOIN  users jt1 ON project_task.created_by=jt1.id AND jt1.deleted=0
+
+ AND jt1.deleted=0  LEFT JOIN  project project ON project_task.project_id=project.id AND project.deleted=0
+
+ AND project.deleted=0  LEFT JOIN  users jt3 ON project_task.assigned_user_id=jt3.id AND jt3.deleted=0
+
+ AND jt3.deleted=0  LEFT JOIN  project_task jt4 ON project_task.projecttask_parent_id=jt4.id AND jt4.deleted=0
+
+ AND jt4.deleted=0 where (project_task.project_id = 'b40d738a-44f0-8c70-3739-59d02b6fa512') AND project_task.deleted=0 ORDER BY project_task.order_number: MySQL error 1054: Unknown column 'jt4.projecttask_parent_name' in 'field list'
+Sat Sep 30 19:41:32 2017 [521933][14930312-dd32-8472-b382-59d02644034f][FATAL]  Query Failed:  SELECT  project_task.*  , jt0.user_name modified_by_name , jt0.created_by modified_by_name_owner  , 'Users' modified_by_name_mod , jt1.user_name created_by_name , jt1.created_by created_by_name_owner  , 'Users' created_by_name_mod , project.name project_name , project.assigned_user_id project_name_owner  , 'Project' project_name_mod , jt3.user_name assigned_user_name , jt3.created_by assigned_user_name_owner  , 'Users' assigned_user_name_mod , jt4. projecttask_parent_name , jt4.assigned_user_id projecttask_parent_name_owner  , 'ProjectTask' projecttask_parent_name_mod FROM project_task   LEFT JOIN  users jt0 ON project_task.modified_user_id=jt0.id AND jt0.deleted=0
+
+ AND jt0.deleted=0  LEFT JOIN  users jt1 ON project_task.created_by=jt1.id AND jt1.deleted=0
+
+ AND jt1.deleted=0  LEFT JOIN  project project ON project_task.project_id=project.id AND project.deleted=0
+
+ AND project.deleted=0  LEFT JOIN  users jt3 ON project_task.assigned_user_id=jt3.id AND jt3.deleted=0
+
+ AND jt3.deleted=0  LEFT JOIN  project_task jt4 ON project_task.projecttask_parent_id=jt4.id AND jt4.deleted=0
+
+ AND jt4.deleted=0 where (project_task.project_id = 'b40d738a-44f0-8c70-3739-59d02b6fa512') AND project_task.deleted=0 ORDER BY project_task.order_number: MySQL error 1054: Unknown column 'jt4.projecttask_parent_name' in 'field list'
+Sat Sep 30 19:42:31 2017 [523622][14930312-dd32-8472-b382-59d02644034f][FATAL]  Query Failed:  SELECT  project_task.*  , jt0.user_name modified_by_name , jt0.created_by modified_by_name_owner  , 'Users' modified_by_name_mod , jt1.user_name created_by_name , jt1.created_by created_by_name_owner  , 'Users' created_by_name_mod , project.name project_name , project.assigned_user_id project_name_owner  , 'Project' project_name_mod , jt3.user_name assigned_user_name , jt3.created_by assigned_user_name_owner  , 'Users' assigned_user_name_mod , jt4. projecttask_parent_name , jt4.assigned_user_id projecttask_parent_name_owner  , 'ProjectTask' projecttask_parent_name_mod FROM project_task   LEFT JOIN  users jt0 ON project_task.modified_user_id=jt0.id AND jt0.deleted=0
+
+ AND jt0.deleted=0  LEFT JOIN  users jt1 ON project_task.created_by=jt1.id AND jt1.deleted=0
+
+ AND jt1.deleted=0  LEFT JOIN  project project ON project_task.project_id=project.id AND project.deleted=0
+
+ AND project.deleted=0  LEFT JOIN  users jt3 ON project_task.assigned_user_id=jt3.id AND jt3.deleted=0
+
+ AND jt3.deleted=0  LEFT JOIN  project_task jt4 ON project_task.projecttask_parent_id=jt4.id AND jt4.deleted=0
+
+ AND jt4.deleted=0 where (project_task.project_id = '5c13f270-abee-7f7b-3961-59d02bc632ba') AND project_task.deleted=0 ORDER BY project_task.order_number: MySQL error 1054: Unknown column 'jt4.projecttask_parent_name' in 'field list'
+Sat Sep 30 19:42:32 2017 [523642][14930312-dd32-8472-b382-59d02644034f][FATAL]  Query Failed:  SELECT  project_task.*  , jt0.user_name modified_by_name , jt0.created_by modified_by_name_owner  , 'Users' modified_by_name_mod , jt1.user_name created_by_name , jt1.created_by created_by_name_owner  , 'Users' created_by_name_mod , project.name project_name , project.assigned_user_id project_name_owner  , 'Project' project_name_mod , jt3.user_name assigned_user_name , jt3.created_by assigned_user_name_owner  , 'Users' assigned_user_name_mod , jt4. projecttask_parent_name , jt4.assigned_user_id projecttask_parent_name_owner  , 'ProjectTask' projecttask_parent_name_mod FROM project_task   LEFT JOIN  users jt0 ON project_task.modified_user_id=jt0.id AND jt0.deleted=0
+
+ AND jt0.deleted=0  LEFT JOIN  users jt1 ON project_task.created_by=jt1.id AND jt1.deleted=0
+
+ AND jt1.deleted=0  LEFT JOIN  project project ON project_task.project_id=project.id AND project.deleted=0
+
+ AND project.deleted=0  LEFT JOIN  users jt3 ON project_task.assigned_user_id=jt3.id AND jt3.deleted=0
+
+ AND jt3.deleted=0  LEFT JOIN  project_task jt4 ON project_task.projecttask_parent_id=jt4.id AND jt4.deleted=0
+
+ AND jt4.deleted=0 where (project_task.project_id = '5c13f270-abee-7f7b-3961-59d02bc632ba') AND project_task.deleted=0 ORDER BY project_task.order_number: MySQL error 1054: Unknown column 'jt4.projecttask_parent_name' in 'field list'
+Sat Sep 30 19:43:18 2017 [524564][14930312-dd32-8472-b382-59d02644034f][FATAL]  Query Failed:  SELECT  project_task.*  , jt0.user_name modified_by_name , jt0.created_by modified_by_name_owner  , 'Users' modified_by_name_mod , jt1.user_name created_by_name , jt1.created_by created_by_name_owner  , 'Users' created_by_name_mod , project.name project_name , project.assigned_user_id project_name_owner  , 'Project' project_name_mod , jt3.user_name assigned_user_name , jt3.created_by assigned_user_name_owner  , 'Users' assigned_user_name_mod , jt4. projecttask_parent_name , jt4.assigned_user_id projecttask_parent_name_owner  , 'ProjectTask' projecttask_parent_name_mod FROM project_task   LEFT JOIN  users jt0 ON project_task.modified_user_id=jt0.id AND jt0.deleted=0
+
+ AND jt0.deleted=0  LEFT JOIN  users jt1 ON project_task.created_by=jt1.id AND jt1.deleted=0
+
+ AND jt1.deleted=0  LEFT JOIN  project project ON project_task.project_id=project.id AND project.deleted=0
+
+ AND project.deleted=0  LEFT JOIN  users jt3 ON project_task.assigned_user_id=jt3.id AND jt3.deleted=0
+
+ AND jt3.deleted=0  LEFT JOIN  project_task jt4 ON project_task.projecttask_parent_id=jt4.id AND jt4.deleted=0
+
+ AND jt4.deleted=0 where (project_task.project_id = '6d9d0602-f8f9-5802-daf5-59d02cf94682') AND project_task.deleted=0 ORDER BY project_task.order_number: MySQL error 1054: Unknown column 'jt4.projecttask_parent_name' in 'field list'
+Sat Sep 30 19:43:18 2017 [524598][14930312-dd32-8472-b382-59d02644034f][FATAL]  Query Failed:  SELECT  project_task.*  , jt0.user_name modified_by_name , jt0.created_by modified_by_name_owner  , 'Users' modified_by_name_mod , jt1.user_name created_by_name , jt1.created_by created_by_name_owner  , 'Users' created_by_name_mod , project.name project_name , project.assigned_user_id project_name_owner  , 'Project' project_name_mod , jt3.user_name assigned_user_name , jt3.created_by assigned_user_name_owner  , 'Users' assigned_user_name_mod , jt4. projecttask_parent_name , jt4.assigned_user_id projecttask_parent_name_owner  , 'ProjectTask' projecttask_parent_name_mod FROM project_task   LEFT JOIN  users jt0 ON project_task.modified_user_id=jt0.id AND jt0.deleted=0
+
+ AND jt0.deleted=0  LEFT JOIN  users jt1 ON project_task.created_by=jt1.id AND jt1.deleted=0
+
+ AND jt1.deleted=0  LEFT JOIN  project project ON project_task.project_id=project.id AND project.deleted=0
+
+ AND project.deleted=0  LEFT JOIN  users jt3 ON project_task.assigned_user_id=jt3.id AND jt3.deleted=0
+
+ AND jt3.deleted=0  LEFT JOIN  project_task jt4 ON project_task.projecttask_parent_id=jt4.id AND jt4.deleted=0
+
+ AND jt4.deleted=0 where (project_task.project_id = '6d9d0602-f8f9-5802-daf5-59d02cf94682') AND project_task.deleted=0 ORDER BY project_task.order_number: MySQL error 1054: Unknown column 'jt4.projecttask_parent_name' in 'field list'
+Sat Sep 30 19:44:02 2017 [529313][14930312-dd32-8472-b382-59d02644034f][FATAL]  Query Failed:  SELECT  project_task.*  , jt0.user_name modified_by_name , jt0.created_by modified_by_name_owner  , 'Users' modified_by_name_mod , jt1.user_name created_by_name , jt1.created_by created_by_name_owner  , 'Users' created_by_name_mod , project.name project_name , project.assigned_user_id project_name_owner  , 'Project' project_name_mod , jt3.user_name assigned_user_name , jt3.created_by assigned_user_name_owner  , 'Users' assigned_user_name_mod , jt4. projecttask_parent_name , jt4.assigned_user_id projecttask_parent_name_owner  , 'ProjectTask' projecttask_parent_name_mod FROM project_task   LEFT JOIN  users jt0 ON project_task.modified_user_id=jt0.id AND jt0.deleted=0
+
+ AND jt0.deleted=0  LEFT JOIN  users jt1 ON project_task.created_by=jt1.id AND jt1.deleted=0
+
+ AND jt1.deleted=0  LEFT JOIN  project project ON project_task.project_id=project.id AND project.deleted=0
+
+ AND project.deleted=0  LEFT JOIN  users jt3 ON project_task.assigned_user_id=jt3.id AND jt3.deleted=0
+
+ AND jt3.deleted=0  LEFT JOIN  project_task jt4 ON project_task.projecttask_parent_id=jt4.id AND jt4.deleted=0
+
+ AND jt4.deleted=0 where (project_task.project_id = '40307994-898d-bac1-5926-59d02c99066a') AND project_task.deleted=0 ORDER BY project_task.order_number: MySQL error 1054: Unknown column 'jt4.projecttask_parent_name' in 'field list'
+Sat Sep 30 19:44:03 2017 [529324][14930312-dd32-8472-b382-59d02644034f][FATAL]  Query Failed:  SELECT  project_task.*  , jt0.user_name modified_by_name , jt0.created_by modified_by_name_owner  , 'Users' modified_by_name_mod , jt1.user_name created_by_name , jt1.created_by created_by_name_owner  , 'Users' created_by_name_mod , project.name project_name , project.assigned_user_id project_name_owner  , 'Project' project_name_mod , jt3.user_name assigned_user_name , jt3.created_by assigned_user_name_owner  , 'Users' assigned_user_name_mod , jt4. projecttask_parent_name , jt4.assigned_user_id projecttask_parent_name_owner  , 'ProjectTask' projecttask_parent_name_mod FROM project_task   LEFT JOIN  users jt0 ON project_task.modified_user_id=jt0.id AND jt0.deleted=0
+
+ AND jt0.deleted=0  LEFT JOIN  users jt1 ON project_task.created_by=jt1.id AND jt1.deleted=0
+
+ AND jt1.deleted=0  LEFT JOIN  project project ON project_task.project_id=project.id AND project.deleted=0
+
+ AND project.deleted=0  LEFT JOIN  users jt3 ON project_task.assigned_user_id=jt3.id AND jt3.deleted=0
+
+ AND jt3.deleted=0  LEFT JOIN  project_task jt4 ON project_task.projecttask_parent_id=jt4.id AND jt4.deleted=0
+
+ AND jt4.deleted=0 where (project_task.project_id = '40307994-898d-bac1-5926-59d02c99066a') AND project_task.deleted=0 ORDER BY project_task.order_number: MySQL error 1054: Unknown column 'jt4.projecttask_parent_name' in 'field list'
+Sat Sep 30 19:44:37 2017 [531060][14930312-dd32-8472-b382-59d02644034f][FATAL]  Query Failed:  SELECT  project_task.*  , jt0.user_name modified_by_name , jt0.created_by modified_by_name_owner  , 'Users' modified_by_name_mod , jt1.user_name created_by_name , jt1.created_by created_by_name_owner  , 'Users' created_by_name_mod , project.name project_name , project.assigned_user_id project_name_owner  , 'Project' project_name_mod , jt3.user_name assigned_user_name , jt3.created_by assigned_user_name_owner  , 'Users' assigned_user_name_mod , jt4. projecttask_parent_name , jt4.assigned_user_id projecttask_parent_name_owner  , 'ProjectTask' projecttask_parent_name_mod FROM project_task   LEFT JOIN  users jt0 ON project_task.modified_user_id=jt0.id AND jt0.deleted=0
+
+ AND jt0.deleted=0  LEFT JOIN  users jt1 ON project_task.created_by=jt1.id AND jt1.deleted=0
+
+ AND jt1.deleted=0  LEFT JOIN  project project ON project_task.project_id=project.id AND project.deleted=0
+
+ AND project.deleted=0  LEFT JOIN  users jt3 ON project_task.assigned_user_id=jt3.id AND jt3.deleted=0
+
+ AND jt3.deleted=0  LEFT JOIN  project_task jt4 ON project_task.projecttask_parent_id=jt4.id AND jt4.deleted=0
+
+ AND jt4.deleted=0 where (project_task.project_id = '3d383c93-2d2d-db1a-7de1-59d02c220e7f') AND project_task.deleted=0 ORDER BY project_task.order_number: MySQL error 1054: Unknown column 'jt4.projecttask_parent_name' in 'field list'
+Sat Sep 30 19:44:38 2017 [531077][14930312-dd32-8472-b382-59d02644034f][FATAL]  Query Failed:  SELECT  project_task.*  , jt0.user_name modified_by_name , jt0.created_by modified_by_name_owner  , 'Users' modified_by_name_mod , jt1.user_name created_by_name , jt1.created_by created_by_name_owner  , 'Users' created_by_name_mod , project.name project_name , project.assigned_user_id project_name_owner  , 'Project' project_name_mod , jt3.user_name assigned_user_name , jt3.created_by assigned_user_name_owner  , 'Users' assigned_user_name_mod , jt4. projecttask_parent_name , jt4.assigned_user_id projecttask_parent_name_owner  , 'ProjectTask' projecttask_parent_name_mod FROM project_task   LEFT JOIN  users jt0 ON project_task.modified_user_id=jt0.id AND jt0.deleted=0
+
+ AND jt0.deleted=0  LEFT JOIN  users jt1 ON project_task.created_by=jt1.id AND jt1.deleted=0
+
+ AND jt1.deleted=0  LEFT JOIN  project project ON project_task.project_id=project.id AND project.deleted=0
+
+ AND project.deleted=0  LEFT JOIN  users jt3 ON project_task.assigned_user_id=jt3.id AND jt3.deleted=0
+
+ AND jt3.deleted=0  LEFT JOIN  project_task jt4 ON project_task.projecttask_parent_id=jt4.id AND jt4.deleted=0
+
+ AND jt4.deleted=0 where (project_task.project_id = '3d383c93-2d2d-db1a-7de1-59d02c220e7f') AND project_task.deleted=0 ORDER BY project_task.order_number: MySQL error 1054: Unknown column 'jt4.projecttask_parent_name' in 'field list'
+Sat Sep 30 19:45:14 2017 [532321][14930312-dd32-8472-b382-59d02644034f][FATAL]  Query Failed:  SELECT  project_task.*  , jt0.user_name modified_by_name , jt0.created_by modified_by_name_owner  , 'Users' modified_by_name_mod , jt1.user_name created_by_name , jt1.created_by created_by_name_owner  , 'Users' created_by_name_mod , project.name project_name , project.assigned_user_id project_name_owner  , 'Project' project_name_mod , jt3.user_name assigned_user_name , jt3.created_by assigned_user_name_owner  , 'Users' assigned_user_name_mod , jt4. projecttask_parent_name , jt4.assigned_user_id projecttask_parent_name_owner  , 'ProjectTask' projecttask_parent_name_mod FROM project_task   LEFT JOIN  users jt0 ON project_task.modified_user_id=jt0.id AND jt0.deleted=0
+
+ AND jt0.deleted=0  LEFT JOIN  users jt1 ON project_task.created_by=jt1.id AND jt1.deleted=0
+
+ AND jt1.deleted=0  LEFT JOIN  project project ON project_task.project_id=project.id AND project.deleted=0
+
+ AND project.deleted=0  LEFT JOIN  users jt3 ON project_task.assigned_user_id=jt3.id AND jt3.deleted=0
+
+ AND jt3.deleted=0  LEFT JOIN  project_task jt4 ON project_task.projecttask_parent_id=jt4.id AND jt4.deleted=0
+
+ AND jt4.deleted=0 where (project_task.project_id = 'fa6e0900-bce0-d770-2ab4-59d02cd2d755') AND project_task.deleted=0 ORDER BY project_task.order_number: MySQL error 1054: Unknown column 'jt4.projecttask_parent_name' in 'field list'
+Sat Sep 30 19:45:15 2017 [532342][14930312-dd32-8472-b382-59d02644034f][FATAL]  Query Failed:  SELECT  project_task.*  , jt0.user_name modified_by_name , jt0.created_by modified_by_name_owner  , 'Users' modified_by_name_mod , jt1.user_name created_by_name , jt1.created_by created_by_name_owner  , 'Users' created_by_name_mod , project.name project_name , project.assigned_user_id project_name_owner  , 'Project' project_name_mod , jt3.user_name assigned_user_name , jt3.created_by assigned_user_name_owner  , 'Users' assigned_user_name_mod , jt4. projecttask_parent_name , jt4.assigned_user_id projecttask_parent_name_owner  , 'ProjectTask' projecttask_parent_name_mod FROM project_task   LEFT JOIN  users jt0 ON project_task.modified_user_id=jt0.id AND jt0.deleted=0
+
+ AND jt0.deleted=0  LEFT JOIN  users jt1 ON project_task.created_by=jt1.id AND jt1.deleted=0
+
+ AND jt1.deleted=0  LEFT JOIN  project project ON project_task.project_id=project.id AND project.deleted=0
+
+ AND project.deleted=0  LEFT JOIN  users jt3 ON project_task.assigned_user_id=jt3.id AND jt3.deleted=0
+
+ AND jt3.deleted=0  LEFT JOIN  project_task jt4 ON project_task.projecttask_parent_id=jt4.id AND jt4.deleted=0
+
+ AND jt4.deleted=0 where (project_task.project_id = 'fa6e0900-bce0-d770-2ab4-59d02cd2d755') AND project_task.deleted=0 ORDER BY project_task.order_number: MySQL error 1054: Unknown column 'jt4.projecttask_parent_name' in 'field list'
+Sat Sep 30 19:46:18 2017 [534337][14930312-dd32-8472-b382-59d02644034f][FATAL]  Query Failed:  SELECT  project_task.*  , jt0.user_name modified_by_name , jt0.created_by modified_by_name_owner  , 'Users' modified_by_name_mod , jt1.user_name created_by_name , jt1.created_by created_by_name_owner  , 'Users' created_by_name_mod , project.name project_name , project.assigned_user_id project_name_owner  , 'Project' project_name_mod , jt3.user_name assigned_user_name , jt3.created_by assigned_user_name_owner  , 'Users' assigned_user_name_mod , jt4. projecttask_parent_name , jt4.assigned_user_id projecttask_parent_name_owner  , 'ProjectTask' projecttask_parent_name_mod FROM project_task   LEFT JOIN  users jt0 ON project_task.modified_user_id=jt0.id AND jt0.deleted=0
+
+ AND jt0.deleted=0  LEFT JOIN  users jt1 ON project_task.created_by=jt1.id AND jt1.deleted=0
+
+ AND jt1.deleted=0  LEFT JOIN  project project ON project_task.project_id=project.id AND project.deleted=0
+
+ AND project.deleted=0  LEFT JOIN  users jt3 ON project_task.assigned_user_id=jt3.id AND jt3.deleted=0
+
+ AND jt3.deleted=0  LEFT JOIN  project_task jt4 ON project_task.projecttask_parent_id=jt4.id AND jt4.deleted=0
+
+ AND jt4.deleted=0 where (project_task.project_id = 'e890a47a-cc8c-c3fe-8857-59d02c6bd762') AND project_task.deleted=0 ORDER BY project_task.order_number: MySQL error 1054: Unknown column 'jt4.projecttask_parent_name' in 'field list'
+Sat Sep 30 19:46:19 2017 [534382][14930312-dd32-8472-b382-59d02644034f][FATAL]  Query Failed:  SELECT  project_task.*  , jt0.user_name modified_by_name , jt0.created_by modified_by_name_owner  , 'Users' modified_by_name_mod , jt1.user_name created_by_name , jt1.created_by created_by_name_owner  , 'Users' created_by_name_mod , project.name project_name , project.assigned_user_id project_name_owner  , 'Project' project_name_mod , jt3.user_name assigned_user_name , jt3.created_by assigned_user_name_owner  , 'Users' assigned_user_name_mod , jt4. projecttask_parent_name , jt4.assigned_user_id projecttask_parent_name_owner  , 'ProjectTask' projecttask_parent_name_mod FROM project_task   LEFT JOIN  users jt0 ON project_task.modified_user_id=jt0.id AND jt0.deleted=0
+
+ AND jt0.deleted=0  LEFT JOIN  users jt1 ON project_task.created_by=jt1.id AND jt1.deleted=0
+
+ AND jt1.deleted=0  LEFT JOIN  project project ON project_task.project_id=project.id AND project.deleted=0
+
+ AND project.deleted=0  LEFT JOIN  users jt3 ON project_task.assigned_user_id=jt3.id AND jt3.deleted=0
+
+ AND jt3.deleted=0  LEFT JOIN  project_task jt4 ON project_task.projecttask_parent_id=jt4.id AND jt4.deleted=0
+
+ AND jt4.deleted=0 where (project_task.project_id = 'e890a47a-cc8c-c3fe-8857-59d02c6bd762') AND project_task.deleted=0 ORDER BY project_task.order_number: MySQL error 1054: Unknown column 'jt4.projecttask_parent_name' in 'field list'
+Sat Sep 30 19:51:29 2017 [639951][14930312-dd32-8472-b382-59d02644034f][FATAL]  Query Failed:  SELECT  project_task.*  , jt0.user_name modified_by_name , jt0.created_by modified_by_name_owner  , 'Users' modified_by_name_mod , jt1.user_name created_by_name , jt1.created_by created_by_name_owner  , 'Users' created_by_name_mod , project.name project_name , project.assigned_user_id project_name_owner  , 'Project' project_name_mod , jt3.user_name assigned_user_name , jt3.created_by assigned_user_name_owner  , 'Users' assigned_user_name_mod , jt4. projecttask_parent_name , jt4.assigned_user_id projecttask_parent_name_owner  , 'ProjectTask' projecttask_parent_name_mod FROM project_task   LEFT JOIN  users jt0 ON project_task.modified_user_id=jt0.id AND jt0.deleted=0
+
+ AND jt0.deleted=0  LEFT JOIN  users jt1 ON project_task.created_by=jt1.id AND jt1.deleted=0
+
+ AND jt1.deleted=0  LEFT JOIN  project project ON project_task.project_id=project.id AND project.deleted=0
+
+ AND project.deleted=0  LEFT JOIN  users jt3 ON project_task.assigned_user_id=jt3.id AND jt3.deleted=0
+
+ AND jt3.deleted=0  LEFT JOIN  project_task jt4 ON project_task.projecttask_parent_id=jt4.id AND jt4.deleted=0
+
+ AND jt4.deleted=0 where (project_task.project_id = 'ea771118-1f9d-c432-72ea-59d02daee30b') AND project_task.deleted=0 ORDER BY project_task.order_number: MySQL error 1054: Unknown column 'jt4.projecttask_parent_name' in 'field list'
+Sat Sep 30 19:51:29 2017 [639964][14930312-dd32-8472-b382-59d02644034f][FATAL]  Query Failed:  SELECT  project_task.*  , jt0.user_name modified_by_name , jt0.created_by modified_by_name_owner  , 'Users' modified_by_name_mod , jt1.user_name created_by_name , jt1.created_by created_by_name_owner  , 'Users' created_by_name_mod , project.name project_name , project.assigned_user_id project_name_owner  , 'Project' project_name_mod , jt3.user_name assigned_user_name , jt3.created_by assigned_user_name_owner  , 'Users' assigned_user_name_mod , jt4. projecttask_parent_name , jt4.assigned_user_id projecttask_parent_name_owner  , 'ProjectTask' projecttask_parent_name_mod FROM project_task   LEFT JOIN  users jt0 ON project_task.modified_user_id=jt0.id AND jt0.deleted=0
+
+ AND jt0.deleted=0  LEFT JOIN  users jt1 ON project_task.created_by=jt1.id AND jt1.deleted=0
+
+ AND jt1.deleted=0  LEFT JOIN  project project ON project_task.project_id=project.id AND project.deleted=0
+
+ AND project.deleted=0  LEFT JOIN  users jt3 ON project_task.assigned_user_id=jt3.id AND jt3.deleted=0
+
+ AND jt3.deleted=0  LEFT JOIN  project_task jt4 ON project_task.projecttask_parent_id=jt4.id AND jt4.deleted=0
+
+ AND jt4.deleted=0 where (project_task.project_id = 'ea771118-1f9d-c432-72ea-59d02daee30b') AND project_task.deleted=0 ORDER BY project_task.order_number: MySQL error 1054: Unknown column 'jt4.projecttask_parent_name' in 'field list'
+Sat Sep 30 19:52:33 2017 [641970][14930312-dd32-8472-b382-59d02644034f][FATAL]  Query Failed:  SELECT  project_task.*  , jt0.user_name modified_by_name , jt0.created_by modified_by_name_owner  , 'Users' modified_by_name_mod , jt1.user_name created_by_name , jt1.created_by created_by_name_owner  , 'Users' created_by_name_mod , project.name project_name , project.assigned_user_id project_name_owner  , 'Project' project_name_mod , jt3.user_name assigned_user_name , jt3.created_by assigned_user_name_owner  , 'Users' assigned_user_name_mod , jt4. projecttask_parent_name , jt4.assigned_user_id projecttask_parent_name_owner  , 'ProjectTask' projecttask_parent_name_mod FROM project_task   LEFT JOIN  users jt0 ON project_task.modified_user_id=jt0.id AND jt0.deleted=0
+
+ AND jt0.deleted=0  LEFT JOIN  users jt1 ON project_task.created_by=jt1.id AND jt1.deleted=0
+
+ AND jt1.deleted=0  LEFT JOIN  project project ON project_task.project_id=project.id AND project.deleted=0
+
+ AND project.deleted=0  LEFT JOIN  users jt3 ON project_task.assigned_user_id=jt3.id AND jt3.deleted=0
+
+ AND jt3.deleted=0  LEFT JOIN  project_task jt4 ON project_task.projecttask_parent_id=jt4.id AND jt4.deleted=0
+
+ AND jt4.deleted=0 where (project_task.project_id = '7bd8d5d8-6811-7299-7948-59d02e1a0057') AND project_task.deleted=0 ORDER BY project_task.order_number: MySQL error 1054: Unknown column 'jt4.projecttask_parent_name' in 'field list'
+Sat Sep 30 19:52:33 2017 [641976][14930312-dd32-8472-b382-59d02644034f][FATAL]  Query Failed:  SELECT  project_task.*  , jt0.user_name modified_by_name , jt0.created_by modified_by_name_owner  , 'Users' modified_by_name_mod , jt1.user_name created_by_name , jt1.created_by created_by_name_owner  , 'Users' created_by_name_mod , project.name project_name , project.assigned_user_id project_name_owner  , 'Project' project_name_mod , jt3.user_name assigned_user_name , jt3.created_by assigned_user_name_owner  , 'Users' assigned_user_name_mod , jt4. projecttask_parent_name , jt4.assigned_user_id projecttask_parent_name_owner  , 'ProjectTask' projecttask_parent_name_mod FROM project_task   LEFT JOIN  users jt0 ON project_task.modified_user_id=jt0.id AND jt0.deleted=0
+
+ AND jt0.deleted=0  LEFT JOIN  users jt1 ON project_task.created_by=jt1.id AND jt1.deleted=0
+
+ AND jt1.deleted=0  LEFT JOIN  project project ON project_task.project_id=project.id AND project.deleted=0
+
+ AND project.deleted=0  LEFT JOIN  users jt3 ON project_task.assigned_user_id=jt3.id AND jt3.deleted=0
+
+ AND jt3.deleted=0  LEFT JOIN  project_task jt4 ON project_task.projecttask_parent_id=jt4.id AND jt4.deleted=0
+
+ AND jt4.deleted=0 where (project_task.project_id = '7bd8d5d8-6811-7299-7948-59d02e1a0057') AND project_task.deleted=0 ORDER BY project_task.order_number: MySQL error 1054: Unknown column 'jt4.projecttask_parent_name' in 'field list'
+Sat Sep 30 19:53:23 2017 [643169][14930312-dd32-8472-b382-59d02644034f][FATAL]  Query Failed:  SELECT  project_task.*  , jt0.user_name modified_by_name , jt0.created_by modified_by_name_owner  , 'Users' modified_by_name_mod , jt1.user_name created_by_name , jt1.created_by created_by_name_owner  , 'Users' created_by_name_mod , project.name project_name , project.assigned_user_id project_name_owner  , 'Project' project_name_mod , jt3.user_name assigned_user_name , jt3.created_by assigned_user_name_owner  , 'Users' assigned_user_name_mod , jt4. projecttask_parent_name , jt4.assigned_user_id projecttask_parent_name_owner  , 'ProjectTask' projecttask_parent_name_mod FROM project_task   LEFT JOIN  users jt0 ON project_task.modified_user_id=jt0.id AND jt0.deleted=0
+
+ AND jt0.deleted=0  LEFT JOIN  users jt1 ON project_task.created_by=jt1.id AND jt1.deleted=0
+
+ AND jt1.deleted=0  LEFT JOIN  project project ON project_task.project_id=project.id AND project.deleted=0
+
+ AND project.deleted=0  LEFT JOIN  users jt3 ON project_task.assigned_user_id=jt3.id AND jt3.deleted=0
+
+ AND jt3.deleted=0  LEFT JOIN  project_task jt4 ON project_task.projecttask_parent_id=jt4.id AND jt4.deleted=0
+
+ AND jt4.deleted=0 where (project_task.project_id = '378dfe7d-8ddd-0b4c-6779-59d02e67e773') AND project_task.deleted=0 ORDER BY project_task.order_number: MySQL error 1054: Unknown column 'jt4.projecttask_parent_name' in 'field list'
+Sat Sep 30 19:53:24 2017 [643178][14930312-dd32-8472-b382-59d02644034f][FATAL]  Query Failed:  SELECT  project_task.*  , jt0.user_name modified_by_name , jt0.created_by modified_by_name_owner  , 'Users' modified_by_name_mod , jt1.user_name created_by_name , jt1.created_by created_by_name_owner  , 'Users' created_by_name_mod , project.name project_name , project.assigned_user_id project_name_owner  , 'Project' project_name_mod , jt3.user_name assigned_user_name , jt3.created_by assigned_user_name_owner  , 'Users' assigned_user_name_mod , jt4. projecttask_parent_name , jt4.assigned_user_id projecttask_parent_name_owner  , 'ProjectTask' projecttask_parent_name_mod FROM project_task   LEFT JOIN  users jt0 ON project_task.modified_user_id=jt0.id AND jt0.deleted=0
+
+ AND jt0.deleted=0  LEFT JOIN  users jt1 ON project_task.created_by=jt1.id AND jt1.deleted=0
+
+ AND jt1.deleted=0  LEFT JOIN  project project ON project_task.project_id=project.id AND project.deleted=0
+
+ AND project.deleted=0  LEFT JOIN  users jt3 ON project_task.assigned_user_id=jt3.id AND jt3.deleted=0
+
+ AND jt3.deleted=0  LEFT JOIN  project_task jt4 ON project_task.projecttask_parent_id=jt4.id AND jt4.deleted=0
+
+ AND jt4.deleted=0 where (project_task.project_id = '378dfe7d-8ddd-0b4c-6779-59d02e67e773') AND project_task.deleted=0 ORDER BY project_task.order_number: MySQL error 1054: Unknown column 'jt4.projecttask_parent_name' in 'field list'
+Sat Sep 30 19:54:10 2017 [644239][14930312-dd32-8472-b382-59d02644034f][FATAL]  Query Failed:  SELECT  project_task.*  , jt0.user_name modified_by_name , jt0.created_by modified_by_name_owner  , 'Users' modified_by_name_mod , jt1.user_name created_by_name , jt1.created_by created_by_name_owner  , 'Users' created_by_name_mod , project.name project_name , project.assigned_user_id project_name_owner  , 'Project' project_name_mod , jt3.user_name assigned_user_name , jt3.created_by assigned_user_name_owner  , 'Users' assigned_user_name_mod , jt4. projecttask_parent_name , jt4.assigned_user_id projecttask_parent_name_owner  , 'ProjectTask' projecttask_parent_name_mod FROM project_task   LEFT JOIN  users jt0 ON project_task.modified_user_id=jt0.id AND jt0.deleted=0
+
+ AND jt0.deleted=0  LEFT JOIN  users jt1 ON project_task.created_by=jt1.id AND jt1.deleted=0
+
+ AND jt1.deleted=0  LEFT JOIN  project project ON project_task.project_id=project.id AND project.deleted=0
+
+ AND project.deleted=0  LEFT JOIN  users jt3 ON project_task.assigned_user_id=jt3.id AND jt3.deleted=0
+
+ AND jt3.deleted=0  LEFT JOIN  project_task jt4 ON project_task.projecttask_parent_id=jt4.id AND jt4.deleted=0
+
+ AND jt4.deleted=0 where (project_task.project_id = '7371e89c-f742-d4c0-564c-59d02eb953e3') AND project_task.deleted=0 ORDER BY project_task.order_number: MySQL error 1054: Unknown column 'jt4.projecttask_parent_name' in 'field list'
+Sat Sep 30 19:54:11 2017 [644247][14930312-dd32-8472-b382-59d02644034f][FATAL]  Query Failed:  SELECT  project_task.*  , jt0.user_name modified_by_name , jt0.created_by modified_by_name_owner  , 'Users' modified_by_name_mod , jt1.user_name created_by_name , jt1.created_by created_by_name_owner  , 'Users' created_by_name_mod , project.name project_name , project.assigned_user_id project_name_owner  , 'Project' project_name_mod , jt3.user_name assigned_user_name , jt3.created_by assigned_user_name_owner  , 'Users' assigned_user_name_mod , jt4. projecttask_parent_name , jt4.assigned_user_id projecttask_parent_name_owner  , 'ProjectTask' projecttask_parent_name_mod FROM project_task   LEFT JOIN  users jt0 ON project_task.modified_user_id=jt0.id AND jt0.deleted=0
+
+ AND jt0.deleted=0  LEFT JOIN  users jt1 ON project_task.created_by=jt1.id AND jt1.deleted=0
+
+ AND jt1.deleted=0  LEFT JOIN  project project ON project_task.project_id=project.id AND project.deleted=0
+
+ AND project.deleted=0  LEFT JOIN  users jt3 ON project_task.assigned_user_id=jt3.id AND jt3.deleted=0
+
+ AND jt3.deleted=0  LEFT JOIN  project_task jt4 ON project_task.projecttask_parent_id=jt4.id AND jt4.deleted=0
+
+ AND jt4.deleted=0 where (project_task.project_id = '7371e89c-f742-d4c0-564c-59d02eb953e3') AND project_task.deleted=0 ORDER BY project_task.order_number: MySQL error 1054: Unknown column 'jt4.projecttask_parent_name' in 'field list'
+Sat Sep 30 19:55:06 2017 [655650][14930312-dd32-8472-b382-59d02644034f][FATAL]  Query Failed:  SELECT  project_task.*  , jt0.user_name modified_by_name , jt0.created_by modified_by_name_owner  , 'Users' modified_by_name_mod , jt1.user_name created_by_name , jt1.created_by created_by_name_owner  , 'Users' created_by_name_mod , project.name project_name , project.assigned_user_id project_name_owner  , 'Project' project_name_mod , jt3.user_name assigned_user_name , jt3.created_by assigned_user_name_owner  , 'Users' assigned_user_name_mod , jt4. projecttask_parent_name , jt4.assigned_user_id projecttask_parent_name_owner  , 'ProjectTask' projecttask_parent_name_mod FROM project_task   LEFT JOIN  users jt0 ON project_task.modified_user_id=jt0.id AND jt0.deleted=0
+
+ AND jt0.deleted=0  LEFT JOIN  users jt1 ON project_task.created_by=jt1.id AND jt1.deleted=0
+
+ AND jt1.deleted=0  LEFT JOIN  project project ON project_task.project_id=project.id AND project.deleted=0
+
+ AND project.deleted=0  LEFT JOIN  users jt3 ON project_task.assigned_user_id=jt3.id AND jt3.deleted=0
+
+ AND jt3.deleted=0  LEFT JOIN  project_task jt4 ON project_task.projecttask_parent_id=jt4.id AND jt4.deleted=0
+
+ AND jt4.deleted=0 where (project_task.project_id = 'e37bed65-ae2f-b1aa-3597-59d02eac85df') AND project_task.deleted=0 ORDER BY project_task.order_number: MySQL error 1054: Unknown column 'jt4.projecttask_parent_name' in 'field list'
+Sat Sep 30 19:55:07 2017 [655905][14930312-dd32-8472-b382-59d02644034f][FATAL]  Query Failed:  SELECT  project_task.*  , jt0.user_name modified_by_name , jt0.created_by modified_by_name_owner  , 'Users' modified_by_name_mod , jt1.user_name created_by_name , jt1.created_by created_by_name_owner  , 'Users' created_by_name_mod , project.name project_name , project.assigned_user_id project_name_owner  , 'Project' project_name_mod , jt3.user_name assigned_user_name , jt3.created_by assigned_user_name_owner  , 'Users' assigned_user_name_mod , jt4. projecttask_parent_name , jt4.assigned_user_id projecttask_parent_name_owner  , 'ProjectTask' projecttask_parent_name_mod FROM project_task   LEFT JOIN  users jt0 ON project_task.modified_user_id=jt0.id AND jt0.deleted=0
+
+ AND jt0.deleted=0  LEFT JOIN  users jt1 ON project_task.created_by=jt1.id AND jt1.deleted=0
+
+ AND jt1.deleted=0  LEFT JOIN  project project ON project_task.project_id=project.id AND project.deleted=0
+
+ AND project.deleted=0  LEFT JOIN  users jt3 ON project_task.assigned_user_id=jt3.id AND jt3.deleted=0
+
+ AND jt3.deleted=0  LEFT JOIN  project_task jt4 ON project_task.projecttask_parent_id=jt4.id AND jt4.deleted=0
+
+ AND jt4.deleted=0 where (project_task.project_id = 'e37bed65-ae2f-b1aa-3597-59d02eac85df') AND project_task.deleted=0 ORDER BY project_task.order_number: MySQL error 1054: Unknown column 'jt4.projecttask_parent_name' in 'field list'
+Sat Sep 30 19:55:41 2017 [667010][14930312-dd32-8472-b382-59d02644034f][FATAL]  Query Failed:  SELECT  project_task.*  , jt0.user_name modified_by_name , jt0.created_by modified_by_name_owner  , 'Users' modified_by_name_mod , jt1.user_name created_by_name , jt1.created_by created_by_name_owner  , 'Users' created_by_name_mod , project.name project_name , project.assigned_user_id project_name_owner  , 'Project' project_name_mod , jt3.user_name assigned_user_name , jt3.created_by assigned_user_name_owner  , 'Users' assigned_user_name_mod , jt4. projecttask_parent_name , jt4.assigned_user_id projecttask_parent_name_owner  , 'ProjectTask' projecttask_parent_name_mod FROM project_task   LEFT JOIN  users jt0 ON project_task.modified_user_id=jt0.id AND jt0.deleted=0
+
+ AND jt0.deleted=0  LEFT JOIN  users jt1 ON project_task.created_by=jt1.id AND jt1.deleted=0
+
+ AND jt1.deleted=0  LEFT JOIN  project project ON project_task.project_id=project.id AND project.deleted=0
+
+ AND project.deleted=0  LEFT JOIN  users jt3 ON project_task.assigned_user_id=jt3.id AND jt3.deleted=0
+
+ AND jt3.deleted=0  LEFT JOIN  project_task jt4 ON project_task.projecttask_parent_id=jt4.id AND jt4.deleted=0
+
+ AND jt4.deleted=0 where (project_task.project_id = '2c3ecfcc-d2c3-f052-f42c-59d02e661c51') AND project_task.deleted=0 ORDER BY project_task.order_number: MySQL error 1054: Unknown column 'jt4.projecttask_parent_name' in 'field list'
+Sat Sep 30 19:55:42 2017 [667172][14930312-dd32-8472-b382-59d02644034f][FATAL]  Query Failed:  SELECT  project_task.*  , jt0.user_name modified_by_name , jt0.created_by modified_by_name_owner  , 'Users' modified_by_name_mod , jt1.user_name created_by_name , jt1.created_by created_by_name_owner  , 'Users' created_by_name_mod , project.name project_name , project.assigned_user_id project_name_owner  , 'Project' project_name_mod , jt3.user_name assigned_user_name , jt3.created_by assigned_user_name_owner  , 'Users' assigned_user_name_mod , jt4. projecttask_parent_name , jt4.assigned_user_id projecttask_parent_name_owner  , 'ProjectTask' projecttask_parent_name_mod FROM project_task   LEFT JOIN  users jt0 ON project_task.modified_user_id=jt0.id AND jt0.deleted=0
+
+ AND jt0.deleted=0  LEFT JOIN  users jt1 ON project_task.created_by=jt1.id AND jt1.deleted=0
+
+ AND jt1.deleted=0  LEFT JOIN  project project ON project_task.project_id=project.id AND project.deleted=0
+
+ AND project.deleted=0  LEFT JOIN  users jt3 ON project_task.assigned_user_id=jt3.id AND jt3.deleted=0
+
+ AND jt3.deleted=0  LEFT JOIN  project_task jt4 ON project_task.projecttask_parent_id=jt4.id AND jt4.deleted=0
+
+ AND jt4.deleted=0 where (project_task.project_id = '2c3ecfcc-d2c3-f052-f42c-59d02e661c51') AND project_task.deleted=0 ORDER BY project_task.order_number: MySQL error 1054: Unknown column 'jt4.projecttask_parent_name' in 'field list'
+Sat Sep 30 19:56:13 2017 [677167][14930312-dd32-8472-b382-59d02644034f][FATAL]  Query Failed:  SELECT  project_task.*  , jt0.user_name modified_by_name , jt0.created_by modified_by_name_owner  , 'Users' modified_by_name_mod , jt1.user_name created_by_name , jt1.created_by created_by_name_owner  , 'Users' created_by_name_mod , project.name project_name , project.assigned_user_id project_name_owner  , 'Project' project_name_mod , jt3.user_name assigned_user_name , jt3.created_by assigned_user_name_owner  , 'Users' assigned_user_name_mod , jt4. projecttask_parent_name , jt4.assigned_user_id projecttask_parent_name_owner  , 'ProjectTask' projecttask_parent_name_mod FROM project_task   LEFT JOIN  users jt0 ON project_task.modified_user_id=jt0.id AND jt0.deleted=0
+
+ AND jt0.deleted=0  LEFT JOIN  users jt1 ON project_task.created_by=jt1.id AND jt1.deleted=0
+
+ AND jt1.deleted=0  LEFT JOIN  project project ON project_task.project_id=project.id AND project.deleted=0
+
+ AND project.deleted=0  LEFT JOIN  users jt3 ON project_task.assigned_user_id=jt3.id AND jt3.deleted=0
+
+ AND jt3.deleted=0  LEFT JOIN  project_task jt4 ON project_task.projecttask_parent_id=jt4.id AND jt4.deleted=0
+
+ AND jt4.deleted=0 where (project_task.project_id = '427808a0-459e-81bc-0215-59d02f686aee') AND project_task.deleted=0 ORDER BY project_task.order_number: MySQL error 1054: Unknown column 'jt4.projecttask_parent_name' in 'field list'
+Sat Sep 30 19:56:14 2017 [677374][14930312-dd32-8472-b382-59d02644034f][FATAL]  Query Failed:  SELECT  project_task.*  , jt0.user_name modified_by_name , jt0.created_by modified_by_name_owner  , 'Users' modified_by_name_mod , jt1.user_name created_by_name , jt1.created_by created_by_name_owner  , 'Users' created_by_name_mod , project.name project_name , project.assigned_user_id project_name_owner  , 'Project' project_name_mod , jt3.user_name assigned_user_name , jt3.created_by assigned_user_name_owner  , 'Users' assigned_user_name_mod , jt4. projecttask_parent_name , jt4.assigned_user_id projecttask_parent_name_owner  , 'ProjectTask' projecttask_parent_name_mod FROM project_task   LEFT JOIN  users jt0 ON project_task.modified_user_id=jt0.id AND jt0.deleted=0
+
+ AND jt0.deleted=0  LEFT JOIN  users jt1 ON project_task.created_by=jt1.id AND jt1.deleted=0
+
+ AND jt1.deleted=0  LEFT JOIN  project project ON project_task.project_id=project.id AND project.deleted=0
+
+ AND project.deleted=0  LEFT JOIN  users jt3 ON project_task.assigned_user_id=jt3.id AND jt3.deleted=0
+
+ AND jt3.deleted=0  LEFT JOIN  project_task jt4 ON project_task.projecttask_parent_id=jt4.id AND jt4.deleted=0
+
+ AND jt4.deleted=0 where (project_task.project_id = '427808a0-459e-81bc-0215-59d02f686aee') AND project_task.deleted=0 ORDER BY project_task.order_number: MySQL error 1054: Unknown column 'jt4.projecttask_parent_name' in 'field list'
+Sat Sep 30 19:57:27 2017 [697570][14930312-dd32-8472-b382-59d02644034f][FATAL]  Query Failed:  SELECT  project_task.*  , jt0.user_name modified_by_name , jt0.created_by modified_by_name_owner  , 'Users' modified_by_name_mod , jt1.user_name created_by_name , jt1.created_by created_by_name_owner  , 'Users' created_by_name_mod , project.name project_name , project.assigned_user_id project_name_owner  , 'Project' project_name_mod , jt3.user_name assigned_user_name , jt3.created_by assigned_user_name_owner  , 'Users' assigned_user_name_mod , jt4. projecttask_parent_name , jt4.assigned_user_id projecttask_parent_name_owner  , 'ProjectTask' projecttask_parent_name_mod FROM project_task   LEFT JOIN  users jt0 ON project_task.modified_user_id=jt0.id AND jt0.deleted=0
+
+ AND jt0.deleted=0  LEFT JOIN  users jt1 ON project_task.created_by=jt1.id AND jt1.deleted=0
+
+ AND jt1.deleted=0  LEFT JOIN  project project ON project_task.project_id=project.id AND project.deleted=0
+
+ AND project.deleted=0  LEFT JOIN  users jt3 ON project_task.assigned_user_id=jt3.id AND jt3.deleted=0
+
+ AND jt3.deleted=0  LEFT JOIN  project_task jt4 ON project_task.projecttask_parent_id=jt4.id AND jt4.deleted=0
+
+ AND jt4.deleted=0 where (project_task.project_id = '6f7c3d12-ce93-e050-b7fd-59d02fe7eca3') AND project_task.deleted=0 ORDER BY project_task.order_number: MySQL error 1054: Unknown column 'jt4.projecttask_parent_name' in 'field list'
+Sat Sep 30 19:57:28 2017 [697597][14930312-dd32-8472-b382-59d02644034f][FATAL]  Query Failed:  SELECT  project_task.*  , jt0.user_name modified_by_name , jt0.created_by modified_by_name_owner  , 'Users' modified_by_name_mod , jt1.user_name created_by_name , jt1.created_by created_by_name_owner  , 'Users' created_by_name_mod , project.name project_name , project.assigned_user_id project_name_owner  , 'Project' project_name_mod , jt3.user_name assigned_user_name , jt3.created_by assigned_user_name_owner  , 'Users' assigned_user_name_mod , jt4. projecttask_parent_name , jt4.assigned_user_id projecttask_parent_name_owner  , 'ProjectTask' projecttask_parent_name_mod FROM project_task   LEFT JOIN  users jt0 ON project_task.modified_user_id=jt0.id AND jt0.deleted=0
+
+ AND jt0.deleted=0  LEFT JOIN  users jt1 ON project_task.created_by=jt1.id AND jt1.deleted=0
+
+ AND jt1.deleted=0  LEFT JOIN  project project ON project_task.project_id=project.id AND project.deleted=0
+
+ AND project.deleted=0  LEFT JOIN  users jt3 ON project_task.assigned_user_id=jt3.id AND jt3.deleted=0
+
+ AND jt3.deleted=0  LEFT JOIN  project_task jt4 ON project_task.projecttask_parent_id=jt4.id AND jt4.deleted=0
+
+ AND jt4.deleted=0 where (project_task.project_id = '6f7c3d12-ce93-e050-b7fd-59d02fe7eca3') AND project_task.deleted=0 ORDER BY project_task.order_number: MySQL error 1054: Unknown column 'jt4.projecttask_parent_name' in 'field list'
+Sat Sep 30 19:58:14 2017 [698669][14930312-dd32-8472-b382-59d02644034f][FATAL]  Query Failed:  SELECT  project_task.*  , jt0.user_name modified_by_name , jt0.created_by modified_by_name_owner  , 'Users' modified_by_name_mod , jt1.user_name created_by_name , jt1.created_by created_by_name_owner  , 'Users' created_by_name_mod , project.name project_name , project.assigned_user_id project_name_owner  , 'Project' project_name_mod , jt3.user_name assigned_user_name , jt3.created_by assigned_user_name_owner  , 'Users' assigned_user_name_mod , jt4. projecttask_parent_name , jt4.assigned_user_id projecttask_parent_name_owner  , 'ProjectTask' projecttask_parent_name_mod FROM project_task   LEFT JOIN  users jt0 ON project_task.modified_user_id=jt0.id AND jt0.deleted=0
+
+ AND jt0.deleted=0  LEFT JOIN  users jt1 ON project_task.created_by=jt1.id AND jt1.deleted=0
+
+ AND jt1.deleted=0  LEFT JOIN  project project ON project_task.project_id=project.id AND project.deleted=0
+
+ AND project.deleted=0  LEFT JOIN  users jt3 ON project_task.assigned_user_id=jt3.id AND jt3.deleted=0
+
+ AND jt3.deleted=0  LEFT JOIN  project_task jt4 ON project_task.projecttask_parent_id=jt4.id AND jt4.deleted=0
+
+ AND jt4.deleted=0 where (project_task.project_id = '3040ccfe-76c8-4207-dbd4-59d02f6ef0e7') AND project_task.deleted=0 ORDER BY project_task.order_number: MySQL error 1054: Unknown column 'jt4.projecttask_parent_name' in 'field list'
+Sat Sep 30 19:58:15 2017 [698696][14930312-dd32-8472-b382-59d02644034f][FATAL]  Query Failed:  SELECT  project_task.*  , jt0.user_name modified_by_name , jt0.created_by modified_by_name_owner  , 'Users' modified_by_name_mod , jt1.user_name created_by_name , jt1.created_by created_by_name_owner  , 'Users' created_by_name_mod , project.name project_name , project.assigned_user_id project_name_owner  , 'Project' project_name_mod , jt3.user_name assigned_user_name , jt3.created_by assigned_user_name_owner  , 'Users' assigned_user_name_mod , jt4. projecttask_parent_name , jt4.assigned_user_id projecttask_parent_name_owner  , 'ProjectTask' projecttask_parent_name_mod FROM project_task   LEFT JOIN  users jt0 ON project_task.modified_user_id=jt0.id AND jt0.deleted=0
+
+ AND jt0.deleted=0  LEFT JOIN  users jt1 ON project_task.created_by=jt1.id AND jt1.deleted=0
+
+ AND jt1.deleted=0  LEFT JOIN  project project ON project_task.project_id=project.id AND project.deleted=0
+
+ AND project.deleted=0  LEFT JOIN  users jt3 ON project_task.assigned_user_id=jt3.id AND jt3.deleted=0
+
+ AND jt3.deleted=0  LEFT JOIN  project_task jt4 ON project_task.projecttask_parent_id=jt4.id AND jt4.deleted=0
+
+ AND jt4.deleted=0 where (project_task.project_id = '3040ccfe-76c8-4207-dbd4-59d02f6ef0e7') AND project_task.deleted=0 ORDER BY project_task.order_number: MySQL error 1054: Unknown column 'jt4.projecttask_parent_name' in 'field list'
+Sat Sep 30 19:59:20 2017 [700718][14930312-dd32-8472-b382-59d02644034f][FATAL]  Query Failed:  SELECT  project_task.*  , jt0.user_name modified_by_name , jt0.created_by modified_by_name_owner  , 'Users' modified_by_name_mod , jt1.user_name created_by_name , jt1.created_by created_by_name_owner  , 'Users' created_by_name_mod , project.name project_name , project.assigned_user_id project_name_owner  , 'Project' project_name_mod , jt3.user_name assigned_user_name , jt3.created_by assigned_user_name_owner  , 'Users' assigned_user_name_mod , jt4. projecttask_parent_name , jt4.assigned_user_id projecttask_parent_name_owner  , 'ProjectTask' projecttask_parent_name_mod FROM project_task   LEFT JOIN  users jt0 ON project_task.modified_user_id=jt0.id AND jt0.deleted=0
+
+ AND jt0.deleted=0  LEFT JOIN  users jt1 ON project_task.created_by=jt1.id AND jt1.deleted=0
+
+ AND jt1.deleted=0  LEFT JOIN  project project ON project_task.project_id=project.id AND project.deleted=0
+
+ AND project.deleted=0  LEFT JOIN  users jt3 ON project_task.assigned_user_id=jt3.id AND jt3.deleted=0
+
+ AND jt3.deleted=0  LEFT JOIN  project_task jt4 ON project_task.projecttask_parent_id=jt4.id AND jt4.deleted=0
+
+ AND jt4.deleted=0 where (project_task.project_id = 'c877a0a9-45c3-9e7d-99fc-59d02fb60ab4') AND project_task.deleted=0 ORDER BY project_task.order_number: MySQL error 1054: Unknown column 'jt4.projecttask_parent_name' in 'field list'
+Sat Sep 30 19:59:20 2017 [700811][14930312-dd32-8472-b382-59d02644034f][FATAL]  Query Failed:  SELECT  project_task.*  , jt0.user_name modified_by_name , jt0.created_by modified_by_name_owner  , 'Users' modified_by_name_mod , jt1.user_name created_by_name , jt1.created_by created_by_name_owner  , 'Users' created_by_name_mod , project.name project_name , project.assigned_user_id project_name_owner  , 'Project' project_name_mod , jt3.user_name assigned_user_name , jt3.created_by assigned_user_name_owner  , 'Users' assigned_user_name_mod , jt4. projecttask_parent_name , jt4.assigned_user_id projecttask_parent_name_owner  , 'ProjectTask' projecttask_parent_name_mod FROM project_task   LEFT JOIN  users jt0 ON project_task.modified_user_id=jt0.id AND jt0.deleted=0
+
+ AND jt0.deleted=0  LEFT JOIN  users jt1 ON project_task.created_by=jt1.id AND jt1.deleted=0
+
+ AND jt1.deleted=0  LEFT JOIN  project project ON project_task.project_id=project.id AND project.deleted=0
+
+ AND project.deleted=0  LEFT JOIN  users jt3 ON project_task.assigned_user_id=jt3.id AND jt3.deleted=0
+
+ AND jt3.deleted=0  LEFT JOIN  project_task jt4 ON project_task.projecttask_parent_id=jt4.id AND jt4.deleted=0
+
+ AND jt4.deleted=0 where (project_task.project_id = 'c877a0a9-45c3-9e7d-99fc-59d02fb60ab4') AND project_task.deleted=0 ORDER BY project_task.order_number: MySQL error 1054: Unknown column 'jt4.projecttask_parent_name' in 'field list'
+Sat Sep 30 20:03:33 2017 [709059][14930312-dd32-8472-b382-59d02644034f][FATAL]  Query Failed:  SELECT  project_task.*  , jt0.user_name modified_by_name , jt0.created_by modified_by_name_owner  , 'Users' modified_by_name_mod , jt1.user_name created_by_name , jt1.created_by created_by_name_owner  , 'Users' created_by_name_mod , project.name project_name , project.assigned_user_id project_name_owner  , 'Project' project_name_mod , jt3.user_name assigned_user_name , jt3.created_by assigned_user_name_owner  , 'Users' assigned_user_name_mod , jt4. projecttask_parent_name , jt4.assigned_user_id projecttask_parent_name_owner  , 'ProjectTask' projecttask_parent_name_mod FROM project_task   LEFT JOIN  users jt0 ON project_task.modified_user_id=jt0.id AND jt0.deleted=0
+
+ AND jt0.deleted=0  LEFT JOIN  users jt1 ON project_task.created_by=jt1.id AND jt1.deleted=0
+
+ AND jt1.deleted=0  LEFT JOIN  project project ON project_task.project_id=project.id AND project.deleted=0
+
+ AND project.deleted=0  LEFT JOIN  users jt3 ON project_task.assigned_user_id=jt3.id AND jt3.deleted=0
+
+ AND jt3.deleted=0  LEFT JOIN  project_task jt4 ON project_task.projecttask_parent_id=jt4.id AND jt4.deleted=0
+
+ AND jt4.deleted=0 where (project_task.project_id = '706e1661-083c-0d94-7d3d-59d030dbb3cf') AND project_task.deleted=0 ORDER BY project_task.order_number: MySQL error 1054: Unknown column 'jt4.projecttask_parent_name' in 'field list'
+Sat Sep 30 20:03:34 2017 [709067][14930312-dd32-8472-b382-59d02644034f][FATAL]  Query Failed:  SELECT  project_task.*  , jt0.user_name modified_by_name , jt0.created_by modified_by_name_owner  , 'Users' modified_by_name_mod , jt1.user_name created_by_name , jt1.created_by created_by_name_owner  , 'Users' created_by_name_mod , project.name project_name , project.assigned_user_id project_name_owner  , 'Project' project_name_mod , jt3.user_name assigned_user_name , jt3.created_by assigned_user_name_owner  , 'Users' assigned_user_name_mod , jt4. projecttask_parent_name , jt4.assigned_user_id projecttask_parent_name_owner  , 'ProjectTask' projecttask_parent_name_mod FROM project_task   LEFT JOIN  users jt0 ON project_task.modified_user_id=jt0.id AND jt0.deleted=0
+
+ AND jt0.deleted=0  LEFT JOIN  users jt1 ON project_task.created_by=jt1.id AND jt1.deleted=0
+
+ AND jt1.deleted=0  LEFT JOIN  project project ON project_task.project_id=project.id AND project.deleted=0
+
+ AND project.deleted=0  LEFT JOIN  users jt3 ON project_task.assigned_user_id=jt3.id AND jt3.deleted=0
+
+ AND jt3.deleted=0  LEFT JOIN  project_task jt4 ON project_task.projecttask_parent_id=jt4.id AND jt4.deleted=0
+
+ AND jt4.deleted=0 where (project_task.project_id = '706e1661-083c-0d94-7d3d-59d030dbb3cf') AND project_task.deleted=0 ORDER BY project_task.order_number: MySQL error 1054: Unknown column 'jt4.projecttask_parent_name' in 'field list'
+Sat Sep 30 20:04:30 2017 [710539][14930312-dd32-8472-b382-59d02644034f][FATAL]  Query Failed:  SELECT  project_task.*  , jt0.user_name modified_by_name , jt0.created_by modified_by_name_owner  , 'Users' modified_by_name_mod , jt1.user_name created_by_name , jt1.created_by created_by_name_owner  , 'Users' created_by_name_mod , project.name project_name , project.assigned_user_id project_name_owner  , 'Project' project_name_mod , jt3.user_name assigned_user_name , jt3.created_by assigned_user_name_owner  , 'Users' assigned_user_name_mod , jt4. projecttask_parent_name , jt4.assigned_user_id projecttask_parent_name_owner  , 'ProjectTask' projecttask_parent_name_mod FROM project_task   LEFT JOIN  users jt0 ON project_task.modified_user_id=jt0.id AND jt0.deleted=0
+
+ AND jt0.deleted=0  LEFT JOIN  users jt1 ON project_task.created_by=jt1.id AND jt1.deleted=0
+
+ AND jt1.deleted=0  LEFT JOIN  project project ON project_task.project_id=project.id AND project.deleted=0
+
+ AND project.deleted=0  LEFT JOIN  users jt3 ON project_task.assigned_user_id=jt3.id AND jt3.deleted=0
+
+ AND jt3.deleted=0  LEFT JOIN  project_task jt4 ON project_task.projecttask_parent_id=jt4.id AND jt4.deleted=0
+
+ AND jt4.deleted=0 where (project_task.project_id = 'c0c52da9-f0f0-b60c-a058-59d031b9fda2') AND project_task.deleted=0 ORDER BY project_task.order_number: MySQL error 1054: Unknown column 'jt4.projecttask_parent_name' in 'field list'
+Sat Sep 30 20:04:31 2017 [710559][14930312-dd32-8472-b382-59d02644034f][FATAL]  Query Failed:  SELECT  project_task.*  , jt0.user_name modified_by_name , jt0.created_by modified_by_name_owner  , 'Users' modified_by_name_mod , jt1.user_name created_by_name , jt1.created_by created_by_name_owner  , 'Users' created_by_name_mod , project.name project_name , project.assigned_user_id project_name_owner  , 'Project' project_name_mod , jt3.user_name assigned_user_name , jt3.created_by assigned_user_name_owner  , 'Users' assigned_user_name_mod , jt4. projecttask_parent_name , jt4.assigned_user_id projecttask_parent_name_owner  , 'ProjectTask' projecttask_parent_name_mod FROM project_task   LEFT JOIN  users jt0 ON project_task.modified_user_id=jt0.id AND jt0.deleted=0
+
+ AND jt0.deleted=0  LEFT JOIN  users jt1 ON project_task.created_by=jt1.id AND jt1.deleted=0
+
+ AND jt1.deleted=0  LEFT JOIN  project project ON project_task.project_id=project.id AND project.deleted=0
+
+ AND project.deleted=0  LEFT JOIN  users jt3 ON project_task.assigned_user_id=jt3.id AND jt3.deleted=0
+
+ AND jt3.deleted=0  LEFT JOIN  project_task jt4 ON project_task.projecttask_parent_id=jt4.id AND jt4.deleted=0
+
+ AND jt4.deleted=0 where (project_task.project_id = 'c0c52da9-f0f0-b60c-a058-59d031b9fda2') AND project_task.deleted=0 ORDER BY project_task.order_number: MySQL error 1054: Unknown column 'jt4.projecttask_parent_name' in 'field list'
+Sat Sep 30 20:06:27 2017 [727966][14930312-dd32-8472-b382-59d02644034f][FATAL] Error retrieving Project list:  Query Failed:  SELECT  project.* ,project_cstm.jjwg_maps_lat_c,project_cstm.jjwg_maps_geocode_status_c,project_cstm.jjwg_maps_lng_c,project_cstm.jjwg_maps_address_c,project_cstm.scope_of_work_c,project_cstm.type_c , jt0.user_name modified_by_name , jt0.created_by modified_by_name_owner  , 'Users' modified_by_name_mod , jt1.user_name created_by_name , jt1.created_by created_by_name_owner  , 'Users' created_by_name_mod , jt2.user_name assigned_user_name , jt2.created_by assigned_user_name_owner  , 'Users' assigned_user_name_mod, '                                                                                                                                                                                                                                                              ' am_projecttemplates_project_1_name , '                                    '  am_projecttemplates_project_1am_projecttemplates_ida  , jt4.name relate_account_name , jt4.assigned_user_id relate_account_name_owner  , 'Accounts' relate_account_name_mod , jt5. project_parent_name , jt5.assigned_user_id project_parent_name_owner  , 'Project' project_parent_name_mod FROM project  LEFT JOIN project_cstm ON project.id = project_cstm.id_c   LEFT JOIN  users jt0 ON project.modified_user_id=jt0.id AND jt0.deleted=0
+
+ AND jt0.deleted=0  LEFT JOIN  users jt1 ON project.created_by=jt1.id AND jt1.deleted=0
+
+ AND jt1.deleted=0  LEFT JOIN  users jt2 ON project.assigned_user_id=jt2.id AND jt2.deleted=0
+
+ AND jt2.deleted=0  LEFT JOIN  accounts jt4 ON project.relate_account_id=jt4.id AND jt4.deleted=0
+
+ AND jt4.deleted=0  LEFT JOIN  project jt5 ON project.project_parent_id=jt5.id AND jt5.deleted=0
+
+ AND jt5.deleted=0 where ((project.name like 'mols%')) AND project.deleted=0 ORDER BY project.name LIMIT 0,30: MySQL error 1054: Unknown column 'jt5.project_parent_name' in 'field list'
+Sat Sep 30 20:06:27 2017 [727966][14930312-dd32-8472-b382-59d02644034f][FATAL] Exception in Controller: Database failure. Please refer to suitecrm.log for details.
+Sat Sep 30 20:07:31 2017 [766246][14930312-dd32-8472-b382-59d02644034f][FATAL] Error retrieving Project list:  Query Failed:  SELECT  project.* ,project_cstm.jjwg_maps_lat_c,project_cstm.jjwg_maps_geocode_status_c,project_cstm.jjwg_maps_lng_c,project_cstm.jjwg_maps_address_c,project_cstm.scope_of_work_c,project_cstm.type_c , jt0.user_name modified_by_name , jt0.created_by modified_by_name_owner  , 'Users' modified_by_name_mod , jt1.user_name created_by_name , jt1.created_by created_by_name_owner  , 'Users' created_by_name_mod , jt2.user_name assigned_user_name , jt2.created_by assigned_user_name_owner  , 'Users' assigned_user_name_mod, '                                                                                                                                                                                                                                                              ' am_projecttemplates_project_1_name , '                                    '  am_projecttemplates_project_1am_projecttemplates_ida  , jt4.name relate_account_name , jt4.assigned_user_id relate_account_name_owner  , 'Accounts' relate_account_name_mod , jt5. project_parent_name , jt5.assigned_user_id project_parent_name_owner  , 'Project' project_parent_name_mod FROM project  LEFT JOIN project_cstm ON project.id = project_cstm.id_c   LEFT JOIN  users jt0 ON project.modified_user_id=jt0.id AND jt0.deleted=0
+
+ AND jt0.deleted=0  LEFT JOIN  users jt1 ON project.created_by=jt1.id AND jt1.deleted=0
+
+ AND jt1.deleted=0  LEFT JOIN  users jt2 ON project.assigned_user_id=jt2.id AND jt2.deleted=0
+
+ AND jt2.deleted=0  LEFT JOIN  accounts jt4 ON project.relate_account_id=jt4.id AND jt4.deleted=0
+
+ AND jt4.deleted=0  LEFT JOIN  project jt5 ON project.project_parent_id=jt5.id AND jt5.deleted=0
+
+ AND jt5.deleted=0 where ((project.name like 'para%')) AND project.deleted=0 ORDER BY project.name LIMIT 0,30: MySQL error 1054: Unknown column 'jt5.project_parent_name' in 'field list'
+Sat Sep 30 20:07:31 2017 [766246][14930312-dd32-8472-b382-59d02644034f][FATAL] Exception in Controller: Database failure. Please refer to suitecrm.log for details.
+Sat Sep 30 20:07:34 2017 [768410][14930312-dd32-8472-b382-59d02644034f][FATAL] Error retrieving Project list:  Query Failed:  SELECT  project.* ,project_cstm.jjwg_maps_lat_c,project_cstm.jjwg_maps_geocode_status_c,project_cstm.jjwg_maps_lng_c,project_cstm.jjwg_maps_address_c,project_cstm.scope_of_work_c,project_cstm.type_c , jt0.user_name modified_by_name , jt0.created_by modified_by_name_owner  , 'Users' modified_by_name_mod , jt1.user_name created_by_name , jt1.created_by created_by_name_owner  , 'Users' created_by_name_mod , jt2.user_name assigned_user_name , jt2.created_by assigned_user_name_owner  , 'Users' assigned_user_name_mod, '                                                                                                                                                                                                                                                              ' am_projecttemplates_project_1_name , '                                    '  am_projecttemplates_project_1am_projecttemplates_ida  , jt4.name relate_account_name , jt4.assigned_user_id relate_account_name_owner  , 'Accounts' relate_account_name_mod , jt5. project_parent_name , jt5.assigned_user_id project_parent_name_owner  , 'Project' project_parent_name_mod FROM project  LEFT JOIN project_cstm ON project.id = project_cstm.id_c   LEFT JOIN  users jt0 ON project.modified_user_id=jt0.id AND jt0.deleted=0
+
+ AND jt0.deleted=0  LEFT JOIN  users jt1 ON project.created_by=jt1.id AND jt1.deleted=0
+
+ AND jt1.deleted=0  LEFT JOIN  users jt2 ON project.assigned_user_id=jt2.id AND jt2.deleted=0
+
+ AND jt2.deleted=0  LEFT JOIN  accounts jt4 ON project.relate_account_id=jt4.id AND jt4.deleted=0
+
+ AND jt4.deleted=0  LEFT JOIN  project jt5 ON project.project_parent_id=jt5.id AND jt5.deleted=0
+
+ AND jt5.deleted=0 where ((project.name like 'para%')) AND project.deleted=0 ORDER BY project.name LIMIT 0,30: MySQL error 1054: Unknown column 'jt5.project_parent_name' in 'field list'
+Sat Sep 30 20:07:34 2017 [768410][14930312-dd32-8472-b382-59d02644034f][FATAL] Exception in Controller: Database failure. Please refer to suitecrm.log for details.
+Mon Oct  2 12:46:24 2017 [818749][14930312-dd32-8472-b382-59d02644034f][FATAL] Caught error: stat(): stat failed for upload/import/error_14930312-dd32-8472-b382-59d02644034f.csv
+Mon Oct  2 12:46:24 2017 [818749][14930312-dd32-8472-b382-59d02644034f][FATAL] Caught error: touch(): UploadStream::stream_metadata is not implemented!
+Mon Oct  2 12:46:24 2017 [818749][14930312-dd32-8472-b382-59d02644034f][FATAL] Caught error: stat(): stat failed for upload/import/errorrecords_14930312-dd32-8472-b382-59d02644034f.csv
+Mon Oct  2 12:46:24 2017 [818749][14930312-dd32-8472-b382-59d02644034f][FATAL] Caught error: touch(): UploadStream::stream_metadata is not implemented!
+Mon Oct  2 12:46:24 2017 [818749][14930312-dd32-8472-b382-59d02644034f][FATAL] Caught error: stat(): stat failed for upload/import/errorrecordsonly_14930312-dd32-8472-b382-59d02644034f.csv
+Mon Oct  2 12:46:24 2017 [818749][14930312-dd32-8472-b382-59d02644034f][FATAL] Caught error: touch(): UploadStream::stream_metadata is not implemented!
+Mon Oct  2 12:46:25 2017 [818749][14930312-dd32-8472-b382-59d02644034f][FATAL] Caught error: stat(): stat failed for upload/import/status_14930312-dd32-8472-b382-59d02644034f.csv
+Mon Oct  2 12:46:25 2017 [818749][14930312-dd32-8472-b382-59d02644034f][FATAL] Caught error: touch(): UploadStream::stream_metadata is not implemented!
+Mon Oct  2 13:53:23 2017 [636801][14930312-dd32-8472-b382-59d02644034f][FATAL] IP Address mismatch: SESSION IP: 184.69.128.190 CLIENT IP: 206.116.2.37
+Mon Oct  2 17:39:54 2017 [306402][14930312-dd32-8472-b382-59d02644034f][FATAL] aos_products_purchases for aos_products_purchases failed to load
+
+Mon Oct  2 17:39:54 2017 [306402][14930312-dd32-8472-b382-59d02644034f][FATAL] error loading relationship aos_products_purchases
+Mon Oct  2 17:56:59 2017 [510075][14930312-dd32-8472-b382-59d02644034f][FATAL] SugarPHPMailer encountered an error: Invalid address:  (addAnAddress to): 
+Mon Oct  2 17:57:36 2017 [516126][14930312-dd32-8472-b382-59d02644034f][FATAL] Exception in Controller: Error retrieving record.  This record may be deleted or you may not be authorized to view it.
+Mon Oct  2 17:59:38 2017 [520120][14930312-dd32-8472-b382-59d02644034f][FATAL] LineItem: {"id":"7d74812a-ceaa-583c-4d91-59d2b17724dc","name":"LIGH-TCAFM","date_entered":"2017-10-02 02:38pm","date_modified":"2017-10-02 02:38pm","modified_user_id":"14930312-dd32-8472-b382-59d02644034f","modified_by_name":"Darius Czycz","created_by":"14930312-dd32-8472-b382-59d02644034f","created_by_name":"Darius Czycz","description":"845USDx1.3 + $50ship","deleted":"0","created_by_link":"","modified_user_link":"","assigned_user_id":"14930312-dd32-8472-b382-59d02644034f","assigned_user_name":"Darius Czycz","assigned_user_link":"","currency_id":"-99","part_number":"LIGH-TCAFM","item_description":"TOPCAT (Access) with Flexmike and Media Connector","number":"1","product_qty":"1.0000","product_cost_price":"1148.500000","product_cost_price_usdollar":"0.000000","product_list_price":"","product_list_price_usdollar":"0.000000","product_discount":"","product_discount_usdollar":"0.000000","product_discount_amount":"","product_discount_amount_usdollar":"0.000000","discount":"Percentage","product_unit_price":"1493.050000","product_unit_price_usdollar":"0.000000","vat_amt":"74.650000","vat_amt_usdollar":"0.000000","product_total_price":"1493.050000","product_total_price_usdollar":"0.000000","vat":"5.0","parent_name":"Centennial Voice Amplification System","parent_type":"AOS_Quotes","parent_id":"6819a25c-f276-48c7-6214-59d2b10c186a","product_id":"4b58ef2b-5af1-f02f-ab32-59d2b16eb657","group_name":"","group_id":"788f6719-140d-a037-e6bf-59d2b1dd1fb8","aos_products":"","aos_contracts":"","aos_quotes":"","aos_invoices":"","pst":"7.0","pst_percent_c":"","pst_amt":"104.510000","pst_amt_c":"","product_markup":"30"}
+Mon Oct  2 17:59:38 2017 [520120][14930312-dd32-8472-b382-59d02644034f][FATAL] LineItem: {"id":"81cc571b-7cdd-4f1d-aa6f-59d2b1ed00c8","name":"SYS-PROFSERV","date_entered":"2017-10-02 02:38pm","date_modified":"2017-10-02 02:38pm","modified_user_id":"14930312-dd32-8472-b382-59d02644034f","modified_by_name":"Darius Czycz","created_by":"14930312-dd32-8472-b382-59d02644034f","created_by_name":"Darius Czycz","description":"Estimate 2hrs installation","deleted":"0","created_by_link":"","modified_user_link":"","assigned_user_id":"14930312-dd32-8472-b382-59d02644034f","assigned_user_name":"Darius Czycz","assigned_user_link":"","currency_id":"-99","part_number":"","item_description":"Installation\/Commissioning","number":"2","product_qty":"1.0000","product_cost_price":"240.000000","product_cost_price_usdollar":"0.000000","product_list_price":"","product_list_price_usdollar":"0.000000","product_discount":"","product_discount_usdollar":"0.000000","product_discount_amount":"","product_discount_amount_usdollar":"0.000000","discount":"Percentage","product_unit_price":"240.000000","product_unit_price_usdollar":"0.000000","vat_amt":"12.000000","vat_amt_usdollar":"0.000000","product_total_price":"240.000000","product_total_price_usdollar":"0.000000","vat":"5.0","parent_name":"Centennial Voice Amplification System","parent_type":"AOS_Quotes","parent_id":"6819a25c-f276-48c7-6214-59d2b10c186a","product_id":"a13f79dc-1aaa-8a4f-9731-59d26d631024","group_name":"","group_id":"788f6719-140d-a037-e6bf-59d2b1dd1fb8","aos_products":"","aos_contracts":"","aos_quotes":"","aos_invoices":"","pst":"0","pst_percent_c":"","pst_amt":"0.000000","pst_amt_c":"","product_markup":"0"}
+Tue Oct  3 10:25:54 2017 [964544][47ac8059-d338-454f-1410-592eeab086f2][FATAL] ERROR: rmdir_recursive(): argument cache/themes/SuiteR/modules is not a file or a dir.
+Tue Oct  3 10:25:54 2017 [964544][47ac8059-d338-454f-1410-592eeab086f2][FATAL] ERROR: rmdir_recursive(): argument cache/themes/Suite7/modules is not a file or a dir.
+Tue Oct  3 16:15:52 2017 [71601][14930312-dd32-8472-b382-59d02644034f][FATAL] LineItem: {"id":"7d74812a-ceaa-583c-4d91-59d2b17724dc","name":"LIGH-TCAFM","date_entered":"2017-10-02 02:38pm","date_modified":"2017-10-02 03:00pm","modified_user_id":"14930312-dd32-8472-b382-59d02644034f","modified_by_name":"Darius Czycz","created_by":"14930312-dd32-8472-b382-59d02644034f","created_by_name":"Darius Czycz","description":"845USDx1.3 + $50ship","deleted":"0","created_by_link":"","modified_user_link":"","assigned_user_id":"14930312-dd32-8472-b382-59d02644034f","assigned_user_name":"Darius Czycz","assigned_user_link":"","currency_id":"-99","part_number":"LIGH-TCAFM","item_description":"TOPCAT (Access) with Flexmike and Media Connector","number":"1","product_qty":"1.0000","product_cost_price":"1148.500000","product_cost_price_usdollar":"0.000000","product_list_price":"","product_list_price_usdollar":"0.000000","product_discount":"","product_discount_usdollar":"0.000000","product_discount_amount":"","product_discount_amount_usdollar":"0.000000","discount":"Percentage","product_unit_price":"1493.050000","product_unit_price_usdollar":"0.000000","vat_amt":"74.650000","vat_amt_usdollar":"0.000000","product_total_price":"1493.050000","product_total_price_usdollar":"0.000000","vat":"5.0","parent_name":"Centennial Voice Amplification System","parent_type":"AOS_Quotes","parent_id":"6819a25c-f276-48c7-6214-59d2b10c186a","product_id":"4b58ef2b-5af1-f02f-ab32-59d2b16eb657","group_name":"","group_id":"788f6719-140d-a037-e6bf-59d2b1dd1fb8","aos_products":"","aos_contracts":"","aos_quotes":"","aos_invoices":"","pst":"7.0","pst_percent_c":"","pst_amt":"104.510000","pst_amt_c":"","product_markup":"30"}
+Tue Oct  3 16:15:52 2017 [71601][14930312-dd32-8472-b382-59d02644034f][FATAL] LineItem: {"id":"81cc571b-7cdd-4f1d-aa6f-59d2b1ed00c8","name":"SYS-PROFSERV","date_entered":"2017-10-02 02:38pm","date_modified":"2017-10-02 03:00pm","modified_user_id":"14930312-dd32-8472-b382-59d02644034f","modified_by_name":"Darius Czycz","created_by":"14930312-dd32-8472-b382-59d02644034f","created_by_name":"Darius Czycz","description":"Estimate 2hrs installation","deleted":"0","created_by_link":"","modified_user_link":"","assigned_user_id":"14930312-dd32-8472-b382-59d02644034f","assigned_user_name":"Darius Czycz","assigned_user_link":"","currency_id":"-99","part_number":"","item_description":"Installation\/Commissioning","number":"2","product_qty":"1.0000","product_cost_price":"240.000000","product_cost_price_usdollar":"0.000000","product_list_price":"","product_list_price_usdollar":"0.000000","product_discount":"","product_discount_usdollar":"0.000000","product_discount_amount":"","product_discount_amount_usdollar":"0.000000","discount":"Percentage","product_unit_price":"240.000000","product_unit_price_usdollar":"0.000000","vat_amt":"12.000000","vat_amt_usdollar":"0.000000","product_total_price":"240.000000","product_total_price_usdollar":"0.000000","vat":"5.0","parent_name":"Centennial Voice Amplification System","parent_type":"AOS_Quotes","parent_id":"6819a25c-f276-48c7-6214-59d2b10c186a","product_id":"a13f79dc-1aaa-8a4f-9731-59d26d631024","group_name":"","group_id":"788f6719-140d-a037-e6bf-59d2b1dd1fb8","aos_products":"","aos_contracts":"","aos_quotes":"","aos_invoices":"","pst":"0","pst_percent_c":"","pst_amt":"0.000000","pst_amt_c":"","product_markup":"0"}
+Wed Oct  4 11:24:16 2017 [852216][14930312-dd32-8472-b382-59d02644034f][FATAL] aos_products_purchases for aos_products_purchases failed to load
+
+Wed Oct  4 11:24:16 2017 [852216][14930312-dd32-8472-b382-59d02644034f][FATAL] error loading relationship aos_products_purchases
+Wed Oct  4 11:40:27 2017 [11187][14930312-dd32-8472-b382-59d02644034f][FATAL] SugarPHPMailer encountered an error: The outbound mail server selected for the mail account you are using is invalid.  Check the settings or select a different mail server for the mail account.
+Wed Oct  4 11:40:27 2017 [11187][14930312-dd32-8472-b382-59d02644034f][FATAL] SugarPHPMailer encountered an error: SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+Wed Oct  4 11:44:46 2017 [35795][14930312-dd32-8472-b382-59d02644034f][FATAL] SugarPHPMailer encountered an error: The outbound mail server selected for the mail account you are using is invalid.  Check the settings or select a different mail server for the mail account.
+Wed Oct  4 11:44:46 2017 [35795][14930312-dd32-8472-b382-59d02644034f][FATAL] SugarPHPMailer encountered an error: SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+Wed Oct  4 11:45:04 2017 [36366][14930312-dd32-8472-b382-59d02644034f][FATAL] SugarPHPMailer encountered an error: The outbound mail server selected for the mail account you are using is invalid.  Check the settings or select a different mail server for the mail account.
+Wed Oct  4 11:45:04 2017 [36366][14930312-dd32-8472-b382-59d02644034f][FATAL] SugarPHPMailer encountered an error: SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+Wed Oct  4 11:45:56 2017 [38161][14930312-dd32-8472-b382-59d02644034f][FATAL] SugarPHPMailer encountered an error: The outbound mail server selected for the mail account you are using is invalid.  Check the settings or select a different mail server for the mail account.
+Wed Oct  4 11:45:56 2017 [38161][14930312-dd32-8472-b382-59d02644034f][FATAL] SugarPHPMailer encountered an error: SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+Wed Oct  4 14:25:54 2017 [1122][14930312-dd32-8472-b382-59d02644034f][FATAL] IP Address mismatch: SESSION IP: 184.69.128.190 CLIENT IP: 206.116.2.37
+Wed Oct  4 14:43:45 2017 [206193][14930312-dd32-8472-b382-59d02644034f][FATAL] IP Address mismatch: SESSION IP: 184.69.128.190 CLIENT IP: 206.116.2.37
+Wed Oct  4 16:30:16 2017 [469322][14930312-dd32-8472-b382-59d02644034f][FATAL] LineItem: {"id":"7d74812a-ceaa-583c-4d91-59d2b17724dc","name":"LIGH-TCAFM","date_entered":"2017-10-02 02:38pm","date_modified":"2017-10-02 03:00pm","modified_user_id":"14930312-dd32-8472-b382-59d02644034f","modified_by_name":"Darius Czycz","created_by":"14930312-dd32-8472-b382-59d02644034f","created_by_name":"Darius Czycz","description":"845USDx1.3 + $50ship","deleted":"0","created_by_link":"","modified_user_link":"","assigned_user_id":"14930312-dd32-8472-b382-59d02644034f","assigned_user_name":"Darius Czycz","assigned_user_link":"","currency_id":"-99","part_number":"LIGH-TCAFM","item_description":"TOPCAT (Access) with Flexmike and Media Connector","number":"1","product_qty":"1.0000","product_cost_price":"1148.500000","product_cost_price_usdollar":"0.000000","product_list_price":"","product_list_price_usdollar":"0.000000","product_discount":"","product_discount_usdollar":"0.000000","product_discount_amount":"","product_discount_amount_usdollar":"0.000000","discount":"Percentage","product_unit_price":"1493.050000","product_unit_price_usdollar":"0.000000","vat_amt":"74.650000","vat_amt_usdollar":"0.000000","product_total_price":"1493.050000","product_total_price_usdollar":"0.000000","vat":"5.0","parent_name":"Centennial Voice Amplification System","parent_type":"AOS_Quotes","parent_id":"6819a25c-f276-48c7-6214-59d2b10c186a","product_id":"4b58ef2b-5af1-f02f-ab32-59d2b16eb657","group_name":"","group_id":"788f6719-140d-a037-e6bf-59d2b1dd1fb8","aos_products":"","aos_contracts":"","aos_quotes":"","aos_invoices":"","pst":"7.0","pst_percent_c":"","pst_amt":"104.510000","pst_amt_c":"","product_markup":"30"}
+Wed Oct  4 16:30:16 2017 [469322][14930312-dd32-8472-b382-59d02644034f][FATAL] LineItem: {"id":"81cc571b-7cdd-4f1d-aa6f-59d2b1ed00c8","name":"SYS-PROFSERV","date_entered":"2017-10-02 02:38pm","date_modified":"2017-10-02 03:00pm","modified_user_id":"14930312-dd32-8472-b382-59d02644034f","modified_by_name":"Darius Czycz","created_by":"14930312-dd32-8472-b382-59d02644034f","created_by_name":"Darius Czycz","description":"Estimate 2hrs installation","deleted":"0","created_by_link":"","modified_user_link":"","assigned_user_id":"14930312-dd32-8472-b382-59d02644034f","assigned_user_name":"Darius Czycz","assigned_user_link":"","currency_id":"-99","part_number":"","item_description":"Installation\/Commissioning","number":"2","product_qty":"1.0000","product_cost_price":"240.000000","product_cost_price_usdollar":"0.000000","product_list_price":"","product_list_price_usdollar":"0.000000","product_discount":"","product_discount_usdollar":"0.000000","product_discount_amount":"","product_discount_amount_usdollar":"0.000000","discount":"Percentage","product_unit_price":"240.000000","product_unit_price_usdollar":"0.000000","vat_amt":"12.000000","vat_amt_usdollar":"0.000000","product_total_price":"240.000000","product_total_price_usdollar":"0.000000","vat":"5.0","parent_name":"Centennial Voice Amplification System","parent_type":"AOS_Quotes","parent_id":"6819a25c-f276-48c7-6214-59d2b10c186a","product_id":"a13f79dc-1aaa-8a4f-9731-59d26d631024","group_name":"","group_id":"788f6719-140d-a037-e6bf-59d2b1dd1fb8","aos_products":"","aos_contracts":"","aos_quotes":"","aos_invoices":"","pst":"0","pst_percent_c":"","pst_amt":"0.000000","pst_amt_c":"","product_markup":"0"}
+Wed Oct  4 17:00:41 2017 [844191][14930312-dd32-8472-b382-59d02644034f][FATAL] IP Address mismatch: SESSION IP: 184.69.128.190 CLIENT IP: 206.116.2.37
+Wed Oct  4 17:02:54 2017 [849553][14930312-dd32-8472-b382-59d02644034f][FATAL] LineItem: {"id":"2801ef6d-8c40-6594-4d2c-59d54b83349c","name":"PCI-PROSERVICES","date_entered":"2017-10-04 02:00pm","date_modified":"2017-10-04 02:00pm","modified_user_id":"14930312-dd32-8472-b382-59d02644034f","modified_by_name":"Darius Czycz","created_by":"14930312-dd32-8472-b382-59d02644034f","created_by_name":"Darius Czycz","description":"","deleted":"0","created_by_link":"","modified_user_link":"","assigned_user_id":"14930312-dd32-8472-b382-59d02644034f","assigned_user_name":"Darius Czycz","assigned_user_link":"","currency_id":"-99","part_number":"","item_description":"Pacificom Professional Services\r\n- Relocate as necessary cable feed from ISP roof antenna to new server room\/rack\r\n- Relocate existing ISP network equipment to new server room\/rack\r\n- Add WiFi outlet in warehouse","number":"1","product_qty":"1.0000","product_cost_price":"2800.000000","product_cost_price_usdollar":"0.000000","product_list_price":"","product_list_price_usdollar":"0.000000","product_discount":"","product_discount_usdollar":"0.000000","product_discount_amount":"","product_discount_amount_usdollar":"0.000000","discount":"Percentage","product_unit_price":"2800.000000","product_unit_price_usdollar":"0.000000","vat_amt":"140.000000","vat_amt_usdollar":"0.000000","product_total_price":"2800.000000","product_total_price_usdollar":"0.000000","vat":"5.0","parent_name":"BC Ceilings Communications Service Work Oct 2017","parent_type":"AOS_Quotes","parent_id":"baeb0624-d510-4fd6-5842-59d54b9f0a65","product_id":"a13f79dc-1aaa-8a4f-9731-59d26d631024","group_name":"ISP Relocation Work","group_id":"1de22fd4-6caf-8ac9-05eb-59d54bad1744","aos_products":"","aos_contracts":"","aos_quotes":"","aos_invoices":"","pst":"0","pst_percent_c":"","pst_amt":"0.000000","pst_amt_c":"","product_markup":"0"}
+Wed Oct  4 17:02:54 2017 [849553][14930312-dd32-8472-b382-59d02644034f][FATAL] LineItem: {"id":"2968979c-a4a9-fedb-1ad6-59d54bb4a69d","name":"PCI-PROSERVICES","date_entered":"2017-10-04 02:00pm","date_modified":"2017-10-04 02:00pm","modified_user_id":"14930312-dd32-8472-b382-59d02644034f","modified_by_name":"Darius Czycz","created_by":"14930312-dd32-8472-b382-59d02644034f","created_by_name":"Darius Czycz","description":"see ChangeOrder &quot;Systems Service Work&quot;","deleted":"0","created_by_link":"","modified_user_link":"","assigned_user_id":"14930312-dd32-8472-b382-59d02644034f","assigned_user_name":"Darius Czycz","assigned_user_link":"","currency_id":"-99","part_number":"","item_description":"Pacificom Professional Services\r\n- Supply\/install wireless Keypad for intrusion near NW door that employees currently use\r\n- Supply\/install wireless Door Contact for intrusion new NW door at employees currently use","number":"2","product_qty":"1.0000","product_cost_price":"490.000000","product_cost_price_usdollar":"0.000000","product_list_price":"","product_list_price_usdollar":"0.000000","product_discount":"","product_discount_usdollar":"0.000000","product_discount_amount":"","product_discount_amount_usdollar":"0.000000","discount":"Percentage","product_unit_price":"490.000000","product_unit_price_usdollar":"0.000000","vat_amt":"24.500000","vat_amt_usdollar":"0.000000","product_total_price":"490.000000","product_total_price_usdollar":"0.000000","vat":"5.0","parent_name":"BC Ceilings Communications Service Work Oct 2017","parent_type":"AOS_Quotes","parent_id":"baeb0624-d510-4fd6-5842-59d54b9f0a65","product_id":"a13f79dc-1aaa-8a4f-9731-59d26d631024","group_name":"New Wireless KP","group_id":"262ed1c1-57b2-b547-5b3e-59d54b6bcd43","aos_products":"","aos_contracts":"","aos_quotes":"","aos_invoices":"","pst":"0","pst_percent_c":"","pst_amt":"0.000000","pst_amt_c":"","product_markup":"0"}
+Wed Oct  4 17:08:11 2017 [924018][14930312-dd32-8472-b382-59d02644034f][FATAL] LineItem: {"id":"2801ef6d-8c40-6594-4d2c-59d54b83349c","name":"PCI-PROSERVICES","date_entered":"2017-10-04 02:00pm","date_modified":"2017-10-04 02:03pm","modified_user_id":"14930312-dd32-8472-b382-59d02644034f","modified_by_name":"Darius Czycz","created_by":"14930312-dd32-8472-b382-59d02644034f","created_by_name":"Darius Czycz","description":"","deleted":"0","created_by_link":"","modified_user_link":"","assigned_user_id":"14930312-dd32-8472-b382-59d02644034f","assigned_user_name":"Darius Czycz","assigned_user_link":"","currency_id":"-99","part_number":"","item_description":"Pacificom Professional Services\r\n- Relocate as necessary cable feed from ISP roof antenna to new server room\/rack\r\n- Relocate existing ISP network equipment to new server room\/rack\r\n- Add WiFi outlet in warehouse","number":"1","product_qty":"1.0000","product_cost_price":"2800.000000","product_cost_price_usdollar":"0.000000","product_list_price":"","product_list_price_usdollar":"0.000000","product_discount":"","product_discount_usdollar":"0.000000","product_discount_amount":"","product_discount_amount_usdollar":"0.000000","discount":"Percentage","product_unit_price":"2800.000000","product_unit_price_usdollar":"0.000000","vat_amt":"140.000000","vat_amt_usdollar":"0.000000","product_total_price":"2800.000000","product_total_price_usdollar":"0.000000","vat":"5.0","parent_name":"BC Ceilings Communications Service Work Oct 2017","parent_type":"AOS_Quotes","parent_id":"baeb0624-d510-4fd6-5842-59d54b9f0a65","product_id":"a13f79dc-1aaa-8a4f-9731-59d26d631024","group_name":"ISP Relocation Work","group_id":"1de22fd4-6caf-8ac9-05eb-59d54bad1744","aos_products":"","aos_contracts":"","aos_quotes":"","aos_invoices":"","pst":"0","pst_percent_c":"","pst_amt":"0.000000","pst_amt_c":"","product_markup":"0"}
+Wed Oct  4 17:08:11 2017 [924018][14930312-dd32-8472-b382-59d02644034f][FATAL] LineItem: {"id":"2968979c-a4a9-fedb-1ad6-59d54bb4a69d","name":"PCI-PROSERVICES","date_entered":"2017-10-04 02:00pm","date_modified":"2017-10-04 02:03pm","modified_user_id":"14930312-dd32-8472-b382-59d02644034f","modified_by_name":"Darius Czycz","created_by":"14930312-dd32-8472-b382-59d02644034f","created_by_name":"Darius Czycz","description":"see ChangeOrder &#38;Systems Service Work&#38;","deleted":"0","created_by_link":"","modified_user_link":"","assigned_user_id":"14930312-dd32-8472-b382-59d02644034f","assigned_user_name":"Darius Czycz","assigned_user_link":"","currency_id":"-99","part_number":"","item_description":"Pacificom Professional Services\r\n- Supply\/install wireless Keypad for intrusion near NW door that employees currently use\r\n- Supply\/install wireless Door Contact for intrusion new NW door at employees currently use","number":"2","product_qty":"1.0000","product_cost_price":"490.000000","product_cost_price_usdollar":"0.000000","product_list_price":"","product_list_price_usdollar":"0.000000","product_discount":"","product_discount_usdollar":"0.000000","product_discount_amount":"","product_discount_amount_usdollar":"0.000000","discount":"Percentage","product_unit_price":"490.000000","product_unit_price_usdollar":"0.000000","vat_amt":"24.500000","vat_amt_usdollar":"0.000000","product_total_price":"490.000000","product_total_price_usdollar":"0.000000","vat":"5.0","parent_name":"BC Ceilings Communications Service Work Oct 2017","parent_type":"AOS_Quotes","parent_id":"baeb0624-d510-4fd6-5842-59d54b9f0a65","product_id":"a13f79dc-1aaa-8a4f-9731-59d26d631024","group_name":"New Wireless KP","group_id":"262ed1c1-57b2-b547-5b3e-59d54b6bcd43","aos_products":"","aos_contracts":"","aos_quotes":"","aos_invoices":"","pst":"0","pst_percent_c":"","pst_amt":"0.000000","pst_amt_c":"","product_markup":"0"}
+Wed Oct  4 17:17:46 2017 [22967][14930312-dd32-8472-b382-59d02644034f][FATAL] LineItem: {"id":"69bb2041-6ab9-64a2-71b9-59d54f4f672d","name":"PFSE-SG2440","date_entered":"2017-10-04 02:16pm","date_modified":"2017-10-04 02:16pm","modified_user_id":"14930312-dd32-8472-b382-59d02644034f","modified_by_name":"Darius Czycz","created_by":"14930312-dd32-8472-b382-59d02644034f","created_by_name":"Darius Czycz","description":"549USD x 1.3 + $25ship","deleted":"0","created_by_link":"","modified_user_link":"","assigned_user_id":"14930312-dd32-8472-b382-59d02644034f","assigned_user_name":"Darius Czycz","assigned_user_link":"","currency_id":"-99","part_number":"","item_description":"Solid State Security Gateway Appliance with pfSense software tuned for optimal performance","number":"1","product_qty":"1.0000","product_cost_price":"738.700000","product_cost_price_usdollar":"0.000000","product_list_price":"","product_list_price_usdollar":"0.000000","product_discount":"","product_discount_usdollar":"0.000000","product_discount_amount":"","product_discount_amount_usdollar":"0.000000","discount":"Percentage","product_unit_price":"997.250000","product_unit_price_usdollar":"0.000000","vat_amt":"49.860000","vat_amt_usdollar":"0.000000","product_total_price":"997.250000","product_total_price_usdollar":"0.000000","vat":"5.0","parent_name":"BC Ceilings new firewall to support VoIP","parent_type":"AOS_Quotes","parent_id":"5d7b0feb-5409-0315-1d28-59d54fa201fc","product_id":"b28e070c-6d47-d2ec-204b-59d26dee9267","group_name":"","group_id":"6695a147-d23b-9fb8-8b1c-59d54f2aa2f5","aos_products":"","aos_contracts":"","aos_quotes":"","aos_invoices":"","pst":"7.0","pst_percent_c":"","pst_amt":"69.810000","pst_amt_c":"","product_markup":"35"}
+Wed Oct  4 17:17:46 2017 [22967][14930312-dd32-8472-b382-59d02644034f][FATAL] LineItem: {"id":"6cbb72f6-ad44-fdc1-998c-59d54f2b800e","name":"PCI-PROSERVICES","date_entered":"2017-10-04 02:16pm","date_modified":"2017-10-04 02:16pm","modified_user_id":"14930312-dd32-8472-b382-59d02644034f","modified_by_name":"Darius Czycz","created_by":"14930312-dd32-8472-b382-59d02644034f","created_by_name":"Darius Czycz","description":"8hrs setup","deleted":"0","created_by_link":"","modified_user_link":"","assigned_user_id":"14930312-dd32-8472-b382-59d02644034f","assigned_user_name":"Darius Czycz","assigned_user_link":"","currency_id":"-99","part_number":"","item_description":"Pacificom Professional Services","number":"2","product_qty":"1.0000","product_cost_price":"960.000000","product_cost_price_usdollar":"0.000000","product_list_price":"","product_list_price_usdollar":"0.000000","product_discount":"","product_discount_usdollar":"0.000000","product_discount_amount":"","product_discount_amount_usdollar":"0.000000","discount":"Percentage","product_unit_price":"960.000000","product_unit_price_usdollar":"0.000000","vat_amt":"48.000000","vat_amt_usdollar":"0.000000","product_total_price":"960.000000","product_total_price_usdollar":"0.000000","vat":"5.0","parent_name":"BC Ceilings new firewall to support VoIP","parent_type":"AOS_Quotes","parent_id":"5d7b0feb-5409-0315-1d28-59d54fa201fc","product_id":"a13f79dc-1aaa-8a4f-9731-59d26d631024","group_name":"","group_id":"6695a147-d23b-9fb8-8b1c-59d54f2aa2f5","aos_products":"","aos_contracts":"","aos_quotes":"","aos_invoices":"","pst":"0","pst_percent_c":"","pst_amt":"0.000000","pst_amt_c":"","product_markup":"0"}
+Wed Oct  4 18:09:37 2017 [665468][14930312-dd32-8472-b382-59d02644034f][FATAL] $return_module :::: Project
+Wed Oct  4 18:09:37 2017 [665468][14930312-dd32-8472-b382-59d02644034f][FATAL] $subpanel_name :::: sub_projects
+Wed Oct  4 18:09:37 2017 [665468][14930312-dd32-8472-b382-59d02644034f][FATAL] $initial_filter :::: &project_id=c0c52da9-f0f0-b60c-a058-59d031b9fda2
+Wed Oct  4 18:09:38 2017 [665468][14930312-dd32-8472-b382-59d02644034f][FATAL] $return_module :::: Project
+Wed Oct  4 18:09:38 2017 [665468][14930312-dd32-8472-b382-59d02644034f][FATAL] $subpanel_name :::: sub_projects
+Wed Oct  4 18:09:38 2017 [665468][14930312-dd32-8472-b382-59d02644034f][FATAL] $initial_filter :::: &project_id=c0c52da9-f0f0-b60c-a058-59d031b9fda2
+Wed Oct  4 18:27:14 2017 [917406][14930312-dd32-8472-b382-59d02644034f][FATAL] SugarPHPMailer encountered an error: The outbound mail server selected for the mail account you are using is invalid.  Check the settings or select a different mail server for the mail account.
+Wed Oct  4 18:27:14 2017 [917406][14930312-dd32-8472-b382-59d02644034f][FATAL] SugarPHPMailer encountered an error: SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+Wed Oct  4 18:27:37 2017 [917942][14930312-dd32-8472-b382-59d02644034f][FATAL] SugarPHPMailer encountered an error: The outbound mail server selected for the mail account you are using is invalid.  Check the settings or select a different mail server for the mail account.
+Wed Oct  4 18:27:37 2017 [917942][14930312-dd32-8472-b382-59d02644034f][FATAL] SugarPHPMailer encountered an error: SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+Wed Oct  4 21:47:05 2017 [161880][14930312-dd32-8472-b382-59d02644034f][FATAL] SugarPHPMailer encountered an error: The outbound mail server selected for the mail account you are using is invalid.  Check the settings or select a different mail server for the mail account.
+Wed Oct  4 21:47:05 2017 [161880][14930312-dd32-8472-b382-59d02644034f][FATAL] SugarPHPMailer encountered an error: SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+Wed Oct  4 21:47:27 2017 [162899][14930312-dd32-8472-b382-59d02644034f][FATAL] SugarPHPMailer encountered an error: The outbound mail server selected for the mail account you are using is invalid.  Check the settings or select a different mail server for the mail account.
+Wed Oct  4 21:47:27 2017 [162899][14930312-dd32-8472-b382-59d02644034f][FATAL] SugarPHPMailer encountered an error: SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+Wed Oct  4 21:47:44 2017 [163455][14930312-dd32-8472-b382-59d02644034f][FATAL] SugarPHPMailer encountered an error: The outbound mail server selected for the mail account you are using is invalid.  Check the settings or select a different mail server for the mail account.
+Wed Oct  4 21:47:44 2017 [163455][14930312-dd32-8472-b382-59d02644034f][FATAL] SugarPHPMailer encountered an error: SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+Wed Oct  4 21:55:12 2017 [271952][14930312-dd32-8472-b382-59d02644034f][FATAL] SugarPHPMailer encountered an error: The outbound mail server selected for the mail account you are using is invalid.  Check the settings or select a different mail server for the mail account.
+Wed Oct  4 21:55:12 2017 [271952][14930312-dd32-8472-b382-59d02644034f][FATAL] SugarPHPMailer encountered an error: SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+Wed Oct  4 21:55:13 2017 [283051][14930312-dd32-8472-b382-59d02644034f][FATAL] SugarPHPMailer encountered an error: SMTP Error: The following recipients failed: dariusc@pacificom.ca: "Your IP: 198.54.114.86 : Your domain pacificom.ca is not allowed in header
+From"
+
+Wed Oct  4 21:59:26 2017 [333099][14930312-dd32-8472-b382-59d02644034f][FATAL] SugarPHPMailer encountered an error: The outbound mail server selected for the mail account you are using is invalid.  Check the settings or select a different mail server for the mail account.
+Wed Oct  4 21:59:26 2017 [333099][14930312-dd32-8472-b382-59d02644034f][FATAL] SugarPHPMailer encountered an error: SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+Wed Oct  4 22:01:31 2017 [337644][14930312-dd32-8472-b382-59d02644034f][FATAL] SugarPHPMailer encountered an error: The outbound mail server selected for the mail account you are using is invalid.  Check the settings or select a different mail server for the mail account.
+Wed Oct  4 22:01:31 2017 [337644][14930312-dd32-8472-b382-59d02644034f][FATAL] SugarPHPMailer encountered an error: SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
